@@ -1,0 +1,1545 @@
+The Art of
+
+/Theory/In/Practice
+
+
+
+
+
+
+Mastering Search Engine Optimization
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Eric Enge, Stephan Spencer & Jessie Stricchiola
+
+The Art of SEO
+
+/ theory / in / pr actice
+
+Three acknowledged experts in search engine optimization share guidelines and innovative
+techniques that will help you plan and execute a comprehensive SEO strategy. Complete with an array of effective tactics from basic to advanced, this fourth edition prepares digital marketers for 2024 and beyond with updates on SEO tools, new search engine optimization methods, and new tools such as generative AI that have reshaped the SEO landscape.
+Authors Eric Enge, Stephan Spencer, and Jessie Stricchiola provide novices with a thorough SEO education, while experienced SEO practitioners get an extensive reference to support ongoing engagements.
+
+
+"SEO is surely an art. But this book ups its value by showing that SEO is also a flat-out science that can be learned and applied to great effect. We'd be foolish not to benefit from its clear lessons."
+-Dr. Robert Cialdini, bestselling author of Influence
+
+
+
+• Learn about the various intricacies and complexities of internet search
+• Explore the underlying theory and inner workings of search engines and their algorithms
+• Gain insights into the future of search, including the impact of AI
+• Discover tools to track results and measure success
+• Examine the effects of key Google algorithm updates
+• Consider opportunities for visibility in local, video (including YouTube), image, and news search
+• Build a competent SEO team with defined roles
+
+Eric Enge is the president of Pilot
+Holding. He's founded, built, and sold four companies with an SEO focus and has worked with many of the world's
+largest brands.
+Stephan Spencer is founder of the SEO firm Netconcepts. His books
+include Google Power Search and Social eCommerce. His clients have included Chanel, Volvo, Sony, and Zappos.
+Jessie Stricchiola, founder of Alchemist Media, has been a retained expert in over 100 litigation matters regarding internet platforms, search engines, social media, and analytics.
+
+
+
+
+SEO	Twitter: @oreillymedia
+linkedin.com/company/oreilly-media
+
+US $65.99  CAN $82.99
+ISBN: 978-1-098-10261-6
+
+
+
+
+5 6 5 9 9 
+
+youtube.com/oreillymedia
+
+
+9  781098 102616 
+
+
+
+
+
+Praise for The Art of SEO, 4th Edition
+
+
+
+
+
+The Art of SEO is an absolute must-have for anyone wanting to learn and implement SEO best practices and boost website rankings. Buy this book now!
+-Kara Goldin, Founder, Hint and Author, The Wall Street Journal Bestseller Undaunted
+
+SEO can be a minefield if you're not armed with the knowledge and resources to safely navigate this ever-changing landscape. Think of The Art of SEO as your field survival manual. Simply put, don't leave home without it.
+-Jamie Salvatori, Founder, Vat19
+
+
+The Art of SEO is an in-depth reference to SEO as a discipline. In this 4th edition, industry
+veterans Eric Enge, Stephan Spencer, and Jessie Stricchiola once again explain the importance of SEO and crafted a step by step manual on how to take your website to new heights. This is a must- read for anyone in the marketing and digital space.
+-Nir Eyal, Bestselling Author,
+Indistractable and Hooked
+
+The Art of the SEO is THE textbook for SEO. In our complex marketing world, SEO is more important than ever, and this is the book that
+every SEO practitioner, executive and technologist must read in order to understand how to build an effective SEO channel. To many businesses, an SEO channel will be their most profitable source of revenue and reading this book cover to cover will give a serious head start in unlocking growth.
+-Eli Schwartz, Author, Product-Led SEO
+and Growth Consultant
+
+The Art of SEO is THE must-read reference of the SEO industry. If you're serious about learning SEO, it's a must-have.
+-Aleyda Solis, SEO Consultant and
+Founder, Orainti
+
+
+I'd highly recommend this comprehensive overview of the SEO world. Written by veteran practitioners who've seen and done it all, it's essential to have
+a copy near your workspace. With the continuing rapid development of the industry, keep up-to-date is more important than ever.
+-Josh Greene, CEO, The Mather Group
+
+
+I'd recommend The Art of SEO, 4th edition, to anyone looking to improve their website's
+SEO. This comprehensive book covers everything from the basics of search fundamentals, keyword research, and on-page optimization to more advanced techniques like link building, analytics, and dealing with manual penalties. The authors use clear and concise language to explain complex concepts, making it easy for even beginners
+to understand and implement SEO strategies effectively. One of the things I appreciated most about this book was the emphasis on ethical SEO practices. The authors stress the importance of creating high-quality content that meets the needs of users rather than relying on black hat tactics that can ultimately harm your website's rankings. Overall, this book is a valuable resource for anyone looking to improve their website's visibility and drive more organic traffic.
+    -Jason Hennessey, Founder and CEO, Hennessey Digital and Author, Honest SEO
+
+This book is a must-read for anyone as it provides invaluable insights into why SEO is essential for success and expertise on how to get the results you need. Written by some of the top SEO experts in the industry, The Art of SEO is the ultimate resource for anyone looking to maximize their online visibility.
+-Rand Fishkin, Cofounder, SparkToro, Author,
+Lost and Founder and Founder, Moz
+
+The one book that every SEO needs to have. More than just an introductory text, The Art of SEO contains detailed insight and tactics to help every website succeed in organic search. This 4th edition clarifies the latest AI and machine learning developments that are driving the future of search and SEO.
+-Barry Adams, SEO Consultant, Polemic Digital
+
+
+As I read through the book, I realized I've seen many of the proposed solutions and the same messaging coming from other SEOs over the years. It's amazing how impactful this book has been to so many SEOs and how it's teachings have proliferated in our industry.
+-Patrick Stox, Product Advisor and
+Technical SEO, Ahrefs
+
+
+The Art of SEO is an excellent resource for anyone interested in SEO. The book covers a wide range of relevant topics, making it a comprehensive guide for SEO practitioners at all levels. All
+three authors are seasoned SEO veterans with a wealth of practical experience. They provide
+clear explanations and actionable advice, backed up by research and case studies, that can help readers improve their website's visibility in search engine results pages. The Art of SEO is also regularly updated to reflect changes in search engine algorithms and best practice, making it a valuable reference for anyone involved in SEO!
+-Marcus Tandler, Cofounder and
+Chief Evangelist, Ryte
+
+
+SEO is surely an art. But this book ups its value
+by showing that SEO is also a flat-out science that can be learned and applied to great effect. We'd be foolish not to benefit from its clear lessons.
+   -Robert Cialdini, CEO and President, Influence at Work and Bestselling Author, Influence: Science and Practice
+
+The authors Eric Enge, Stephan Spencer, and Jessie Stricchiola are deep experts on the whole search and findability space. Their work and advice are clear and actionable.
+-Gerry McGovern, Author, Top Tasks
+and World Wide Waste
+
+Authors Eric, Jessie, and Stephan are deep subject matter experts whose curiosity and focus shows up in this content rich book. Warm, smart and in service.
+-Matt Church, Founder, Thought Leaders and Author, The Leadership Landscape
+
+The Art of SEO is the definitive book on SEO. Period. The authors, Eric Enge, Stephan Spencer, and Jessie Stricchiola, are all experts in the
+field and have written the most comprehensive guide on SEO that exists. It covers everything you need to know to improve your website's ranking in search engines, from basic concepts like keyword research to advanced techniques like link building. This 4th Edition is a welcome revision in light of the recent advances in Generative AI and Google's own revision to their
+E-A-T framework (E-E-A-T). If you're serious about improving your website's visibility online with the most comprehensive and up-to-date information, then The Art of SEO is an essential read.
+-Neal Schaffer, Author, The Age of Influence
+
+With so many marketing pundits foretelling the end of marketing as we know it--with the advent of artificial intelligence (AI) taking over the world,
+the promise of more institutional regulations, online marketing imposters making it more difficult for
+the good guys to do good--some of the really good guys are doubling down by releasing the 4th edition of their book on one of those areas where its demise has been erroneously predicted, SEO. The authors, Eric Enge, Stephan Spencer, and Jessie Stricchiola are not only doubling down but they are predicting even more opportunities
+in this vast and complicated online media choice. They believe, like most of the "good guys" do, that every challenge is an opportunity-and with the 4th edition of The Art of SEO, they not only update the opportunities, they create new avenues and applications available nowhere else.
+ -Brian Kurtz, Titans Marketing and Author, Overdeliver: Build a Business for a Lifetime Playing the Long Game in Direct Response Marketing and The Advertising Solution
+
+The Art of SEO is a game-changing guide for anyone wanting to boost their online visibility and stay ahead in the ever-changing SEO landscape.
+-Michael Stelzner, Founder and CEO,
+Social Media Examiner
+
+
+SEO is a mystery for many marketers and entrepreneurs. Eric Enge, Stephan Spencer, and Jessie Stricchiola are undisputed masters of the craft. In this book they guide you step-by-step through understanding and implementing this important way of marketing.
+-Allan Dib, Bestselling Author,
+The 1-Page Marketing Plan
+
+Written by top SEO minds and pioneers of the industry, The Art of SEO (4th edition) is a must- read for anyone in the field. This comprehensive guide covers everything from fundamentals to advanced concepts like EEAT and generative AI. Since its first edition in 2009, it has empowered generations of SEO professionals. A game-changing resource for all skill levels.
+-Michael Geneles, Cofounder, Pitchbox
+
+
+The Art of SEO is the go-to book on how
+to optimize your website for Google. Stephan Spencer, Eric Enge, and Jessie Stricchiola crush it with every edition. Invest your time in this book. You won't be disappointed.
+-Marcus Sheridan, Author,
+They Ask You Answer
+
+This comprehensive guide is your road map to digital success! With clear explanations, real-world examples, and actionable advice, it's the ultimate SEO resource.
+-Roger Dooley, Author,
+Brainfluence and Friction
+
+What I love about the authors, their approaches, and this book is this: they're playing the long game and showing you how you can do the same. If you want to win the search engine game, this book is crucial to your victory.
+-Matt Gallant, CEO and Cofounder,
+BIOptimizers
+
+The Art of War isn't about Chinese pottery, and
+The Art of SEO isn't a paint-by-numbers kit. This 800-page book is a comprehensive guide to SEO strategies and tactics written by three SEO experts: Eric Enge, Stephan Spencer, and Jessie Stricchiola. The 4th edition covers the
+latest changes in the digital marketing landscape, including the advent of ChatGPT. So, this book continues to be a must read for anyone interested in mastering SEO.
+-Greg Jarboe, President, SEO-PR, Author,
+YouTube and Video Marketing, and Coauthor,
+Digital Marketing Fundamentals
+
+An essential guide to best practices and cutting- edge tactics that belongs on the desk of all
+search marketing professionals, especially in these days of nearly constant change, updates, and new approaches by the search engines.
+-Chris Sherman, Founding Editor, Search Engine Land and VP Programming,
+Search Marketing Expo
+
+
+How serious are you about maximizing and multiplying, monetizing your ability to harness the dynamic force and power of SEO? I say dynamic because it is not static. Like game theory, your strategy needs to be preeminent, preemptive, and ever-evolving. The Art of SEO is deep, serious (yet eminently, elegantly, and stunningly clear and profoundly actionable)! The
+authors examine, explain, explore, and expose the real truths, the real inner workings, the real ethical means of optimizing SEO in a fast-changing, ultra- competitive online environment. You will finally and meaningfully grasp how to gain the most prized outcome imaginable: the sustainable "gift" of your target market's fullest attention, presence, and trust! Every chapter is sincerely a complete short-course primer, masterfully distilled down to its most actionable, relevant, critical elements. If you've struggled to figure out who to trust to understand and meaningfully manage your SEO opportunities, read this book-then use it as a reality check against anyone you entrust your most precious online relationship to.
+  -Jay Abraham, Bestselling Author and Forbes Magazine "Top 5" Best Executive
+Coaches in the US
+
+
+This is the book to read on SEO, packed full of knowledge from beginner to expert to master.
+ -Ramez Naam, Former Relevance Group Program Manager, Bing and Author, Nexus
+
+The Art of SEO represents a comprehensive and instructive guide to mastering SEO for webmasters new and experienced. While the SEO industry continues to evolve, the primary teachings of this seminal book hold constant- SEO continues to be an art that can be learned and finessed when armed with the tools and tips recorded in these writings.
+-Kristopher B. Jones, Founder, LSEO.com and Coauthor, Search Engine Optimization
+All-in-One For Dummies
+
+If you ever want to sell anything, you can't overestimate the importance of understanding search behavior. And there's no stronger team of A-players to write about SEO. Everyone should read this book!
+-Chris Goward, Founder (exited), Widerfunnel and Author, You Should Test That!
+
+The Art of SEO combines the expertise of the three leading search experts in the world, making it an invaluable resource.
+   -Gokul Rajaram, Product Engineering Lead, Square; Former Product Director, Ads, Facebook; Former Product Director,
+AdSense, Google
+
+
+The Art of SEO is hands-down the gold standard of SEO books. It was the first SEO book I ever owned and the newly updated edition is filled with relevant, helpful information for anyone who wants to be better at SEO.
+-Cyrus Shepard, Owner, Zyppy SEO
+
+
+The Art of SEO is a most comprehensive guide
+to SEO available today. Providing a foundation for beginners to the seasoned SEO pros, you'll find value in the principles of this book. Anyone who is looking to succeed in today's digital landscape can break down the complex world of SEO into
+manageable pieces. I highly recommend this book to anyone who wants to stay ahead of the curve when it comes to SEO.
+-Jordan Koene, CEO and Cofounder, Previsible
+
+The Art of SEO is an innovative book that can change your company's fortune and future forever from the very first page. The book is full of valuable information that will save you countless hours- and perhaps make you millions of dollars-when promoting your business online. The concepts and ideas are easy to understand and follow, which
+is key for brands or companies that are busy focusing on their product or service, but need
+to keep well informed. Authors Stephan Spencer, Eric Enge and Jessie Stricchiola, bring together collectively decades of experience, and share some of their most innovative methods, research, and strategies to save you valuable time and money in accomplishing measurable results in your SEO. In its 4th edition, the authors of The Art of SEO are constantly following the latest changes, and providing the most up-to-date, comprehensive, tried-and-tested techniques to keep you ahead of the curve. As I've said in many of my talks, if you're not upgrading your skills, you're falling backward. The Art of SEO gives you the latest information to stay competitive in the field, with all the knowledge readily available at your fingertips.
+-Brian Tracy, President, Brian Tracy International
+
+
+Organic traffic is one of the strongest traffic and sales-driving channels, and The Art of SEO is the best resource out there that captures how to maximize it. From planning your strategy and understanding all the technical considerations to demystifying mobile and local, The Art of SEO covers it and makes clear for both the expert
+SEO practitioner and the general digital marketer. Anyone working in ecommerce needs this book on their shelf.
+-Erin Everhart, Director, Digital Retail and Loyalty, Arby's at Inspire Brands
+
+
+The Art of SEO is the perfect complement to
+the science of conversion optimization. This book is a must-read volume by three highly regarded industry veterans.
+-Bryan Eisenberg, New York Times Bestselling Author, Call to Action, Always Be Testing, Waiting for Your Cat to Bark, and
+Be Like Amazon
+
+The 4th edition of The Art of SEO expands and enhances a book that was already the industry standard for SEO education and strategy. Anyone looking to optimize their website and get better rankings on the search engines should keep this book on their desk and refer to it daily. All
+of the advanced technical SEO strategies are covered in a straightforward method that is easy to understand and action-oriented. When you are finished reading this book, you will have a better grasp on how search engines work and how you can optimize your website with expert proficiency. If you want to drive more traffic to your website, engage your audience on a deeper level, generate more sales, and grow your business-this books lays the plan out for you.
+-Joseph Kerschbaum, Senior Vice President, Search and Growth Labs, DEPT
+
+
+In The Art of SEO, Eric Enge, Stephan Spencer, and Jessie Stricchiola have taken on the daunting task of compiling a comprehensive, step-by-step walk-through of what it takes to rank well on search. They go well beyond the usual tactical aspects, addressing fundamental challenges
+like understanding user intent, integrating an SEO culture within your organization, properly measuring success, and managing an SEO project. This is a deep, deep dive into the world of organic optimization, and you couldn't ask for
+better guides than Enge, Spencer, and Stricchiola. Clear a place on your desk, because this is going to be your SEO bible.
+-Gord Hotchkiss, Founder, Enquiro Search Solutions
+
+
+It's more expensive than ever to get digital advertising right. Cost of acquisition, search volume, and more is causing many brands to rethink their spending and strategy. One strategy that has remained true (and powerful) is the art and science of SEO. It's not always easy... and it takes time, but the results always astound. What you are holding in your hands is the bible when it comes to SEO. Want to truly create a moat and get ahead of your competition? Dig in!
+-Mitch Joel, Founder, ThinkersOne and Author,
+Six Pixels of Separation and CTRL ALT Delete
+
+An amazingly well-researched, comprehensive, and authoritative guide to SEO from some of the most well-respected experts in the industry;
+highly recommended for anyone involved in online marketing.
+-Ben Jesson, Cofounder, Conversion Rate Experts
+
+
+With the immense changes in the search engine landscape over the past few years, there couldn't be a better time for the 4th edition of The Art of SEO. Do your career, and yourself a favor, and read this book.
+-Ross Dunn, CEO and Founder, StepForth Web Marketing, Inc.
+
+
+As a coauthor of a book people refer to as the "Bible of Search Marketing," you might think that I wouldn't recommend other search books. Not so. But I recommend only excellent search books written by outstanding search experts. The Art of SEO easily clears that high standard and is a
+must-read for anyone serious about organic search success.
+        -Mike Moran, Coauthor, Search Engine Marketing, Inc. and Author, Do It Wrong Quickly
+
+Roll up your sleeves, buckle your seat belt, and take your foot off the brake. You are about to go on a journey from the very basics to the very
+high-end, enterprise level, and then into the future of the art of SEO. These three authors have been involved in Internet marketing from the very start and have hands-on experience. These are not pundits in search of an audience but practitioners who have actually done the work, know how it's done, and have the scars to prove it. This is a dynamite primer for the beginner and a valued resource for the expert. Clear, concise, and to the point, it may not make you laugh or make
+you cry, but it will make you smart and make you successful.
+-Jim Sterne, Producer, eMetrics Marketing Optimization Summit and Chairman, Web Analytics Association
+
+
+Regardless of whether you're a beginner or an expert search marketer, The Art of SEO delivers! From keyword research and search analytics to SEO tools and more!
+-Ken Jurina, President and CEO, Epiar
+
+There are no better guides through the world of SEO-the combined experience of these authors is unparalleled. I can't recommend highly enough that you buy this book.
+-Will Critchlow, CEO, SearchPilot
+
+
+Simply put...The Art of SEO is a smart book on SEO. Neatly laid out, comprehensive and clear... this edition explains the nuances of cutting-edge tactics for improving your SEO efforts. I refer to it constantly.
+-Allen Weiss, Founder and CEO,
+MarketingProfs.com
+
+
+Presenting the inner mechanics of SEO is a daunting task, and this book has accomplished it with flair. The book reveals the closely guarded secrets of optimizing websites in a straightforward, easy-to-understand format. If you ever wanted
+to unravel the mysteries of the most enigmatic discipline on the internet, this is the book you want as your guide. This book is so comprehensive and well written, it just might put me out of a job.
+-Christine Churchill, President, KeyRelevance
+
+
+Integration of SEO into any strategic PR plan represents the evolution of our industry. Ultimately it's this combination of SEO and PR that
+realizes the greatest message pull-through. With its practical tips, The Art of SEO has been invaluable to our PR firm and to me as a PR professional, helping us form our content and social media strategy as well as acquire more valuable backlinks from top media outlets.
+-Heidi Krupp, CEO, Krupp Kommunications
+
+
+Written by in-the-trenches practitioners, The Art of SEO is a well-written step-by-step guide providing sensible and practical advice on how to implement a successful SEO program. The authors have created a readable and straightforward guide filled with concise and easily adopted strategies and tactics any online business can use. I now have
+a great resource to recommend when people ask, "Know any good books on SEO?"
+-Debra Mastaler, President, De9er Media
+
+
+Mastering is the keyword of this title. Once you're ready to become an expert and reap the benefits, this is the ultimate deep dive.
+-Derek Sivers, Author, Anything You Want
+and TED Speaker
+
+The definitive book on SEO just keeps getting better, as the new 4th edition of The Art of SEO is packed full of helpful new information.
+    -Brett Tabke, Founder and CEO, Pubcon, the Premier Optimization, and
+New Media Conferences
+
+
+SEO is still critical to a content creator's success. Whether you are a neophyte or an advanced search engine marketer, this book will take your business to the next level and help you drive real revenue opportunities.
+-Joe Pulizzi, Author, Epic Content Marketing
+and Content Inc.
+
+Since the science of SEO changes daily, understanding those changes and executing from that understanding is critical to today's business. This map in book form can help you navigate the seas of change and take control of your ship.
+The essential SEO guide will move you into the captain's seat of online marketing.
+-Toni Sikes, CEO, CODAworx and Founder, The Guild
+
+
+The Art of SEO masterfully unravels the intricate world of SEO, blending marketing and technical expertise to illuminate this often-misunderstood field. Providing insights that range from SEO fundamentals to advanced techniques, this book is an indispensable guide for beginners and an invaluable reference for seasoned practitioners. Stephan Spencer, Eric Enge and Jessie Stricchiola have written the definitive
+resource for anyone looking to excel in this hyper- dynamic landscape.
+-Jenise Uehara, CEO, Search Engine Journal
+
+
+The Art of SEO books have helped thousands of people come to grips with the confusing world of SEO. This 4th edition is no different. With new examples, new strategies and new approaches, this book gives you the tools needed to get higher Google rankings using modern day strategies.
+-Brian Dean, Cofounder, Exploding Topics
+
+
+The Art of SEO has always given readers the most comprehensive insights possible to the industry I have loved for decades. Every SEO should have a reference copy. I am delighted to see it refreshed and brought up to date.
+-Dixon Jones, CEO, inLinks
+
+The Art of SEO not only illustrates the broader landscape of search mechanics, but also zeroes in on constructing websites and content that harmonize with users' journeys. This guide transcends the typical mantra of "create good content," instead offering a detailed road map to crafting engaging online experiences that secure impressive rankings.
+-Bartosz Góralewicz, Founder and CEO, Onely
+
+
+Edition after edition, The Art of SEO continues to bring the top strategies, research, tactics and
+insights into our ever changing industry. SEO is far from easy, but having a resource like this makes it just a bit more manageable as we tackle all that Google and other technologies throw at us.
+-Sean Kainec, VP, Strategic Growth and
+Marketing, Quattro Agency
+
+
+DO NOT BUY THIS BOOK. Please. I beg of you.
+If you compete with us or any of our clients, do
+not buy this book. It's become our go-to source for anything-and everything-we need to know about successful SEO.
+-Amy Africa, CEO, Eight By Eight
+
+
+Stephan Spencer, Eric Enge, and Jessie Stricchiola, the triumvirate behind 'Art of SEO', are industry titans who've collectively transformed SEO. Their book is a global reference point, reflecting over 60 years of their combined expertise. It's an honor to endorse The Art of SEO and its authors-true pioneers in the realm of search.
+
+This updated book is THE BLUEPRINT for essentially uncovering hidden cash in your business. It has everything from technical SEO
+to high-level strategies for on-page and backlinks- everything the modern business needs to know to dominate organic search now and into the future! Highly recommended!
+-Greg Merrilees, Founder, Studio1Design.com
+
+
+The Art of SEO is a thorough and comprehensive must-have for SEO practitioners, teachers, students, marketers, and anyone who is interested in learning and implementing SEOn. You can't just leave it up to chance whether Google directs the prospects to you or not!
+   -Robert Allen, Author, Multiple Streams of Income and Coauthor, The One Minute Millionaire
+
+This book is a must-read for anyone because it provides invaluable insights into why SEO is
+essential for success and expertise on how to get the results you need. Written by some of the top SEO experts in the industry, The Art of SEO is the ultimate resource for anyone looking to maximize their online visibility.
+-Dan Gaul, Cofounder and CTO, Digital Trends
+
+-Christoph Cemper, Founder, AIPRM, LinkResearchTools, and Link Detox
+
+
+
+
+
+
+
+
+The Art of SEO
+FOURTH EDITION
+Mastering Search Engine Optimization
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eric Enge, Stephan Spencer, and Jessie Stricchiola
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Art of SEO
+by Eric Enge, Stephan Spencer, and Jessie Stricchiola
+
+Copyright (c) 2023 Pilot Holding, Inc., Stephan Spencer, and Alchemist Media, Inc. All rights reserved.
+Printed in the United States of America.
+
+Published by O'Reilly Media, Inc., 1005 Gravenstein Highway North, Sebastopol, CA 95472.
+
+O'Reilly books may be purchased for educational, business, or sales promotional use. Online editions are also available for most titles (https://oreilly.com). For more information, contact our corporate/institutional sales department: 800-998-9938 or corporate@oreilly.com.
+
+Acquisitions Editor: Melissa Duffield Development Editor: Shira Evans Production Editor: Katherine Tozer Copyeditor: Rachel Head Proofreader: Sonia Saruba
+
+Indexer: Judith McConville Interior Designer: David Futato Cover Designer: Randy Comer Illustrator: Kate Dullea
+
+
+September 2023:	Fourth Edition
+
+Revision History for the First Release
+2023-08-30: First Release
+
+See https://oreilly.com/catalog/errata.csp?isbn=9781098102616 for release details.
+
+The O'Reilly logo is a registered trademark of O'Reilly Media, Inc. The Art of SEO, the cover image, and related trade dress are trademarks of O'Reilly Media, Inc.
+The views expressed in this work are those of the authors and do not represent the publish- er's views. While the publisher and the authors have used good faith efforts to ensure that the information and instructions contained in this work are accurate, the publisher and the authors disclaim all responsibility for errors or omissions, including without limitation respon- sibility for damages resulting from the use of or reliance on this work. Use of the information and instructions contained in this work is at your own risk. If any code samples or other technology this work contains or describes is subject to open source licenses or the intellectual property rights of others, it is your responsibility to ensure that your use thereof complies with such licenses and/or rights.
+
+
+978-1-098-10261-6 [LSI]
+
+T A B L E O F C O N T E N T S
+
+
+
+
+Foreword.	xxv
+Preface.	xxix
+1 Search: Reflecting Consciousness and Connecting Commerce.	1
+Is This Book for You?	2
+SEO Myths Versus Reality	2
+The Mission of Search Engines	5
+Goals of Searching: The User's Perspective	6
+Determining User Intent: A Challenge for Search Marketers and Search Engines	8
+Navigational Queries	8
+Informational Queries	9
+Transactional Queries	10
+Local Queries	11
+Searcher Intent	13
+How Users Search	17
+How Search Engines Drive Ecommerce	20
+Types of Search Traffic	22
+Search Traffic by Device Type	23
+More on the Makeup of SERPs	27
+The Role of AI and Machine Learning	31
+Using Generative AI for Content Generation	31
+SEO as a Career	33
+Conclusion	36
+2 Generative AI and Search.	37
+A Brief Overview of Artificial Intelligence	37
+More About Large Language Models	38
+Generative AI Solutions	39
+Generative AI Capabilities	45
+Prompt Generation (a.k.a. Prompt Engineering)	60
+Generative AI Challenges	61
+Conclusion	63
+3 Search Fundamentals.	65
+Deconstructing Search	66
+The Language of Search	67
+Word Order and Phrases	68
+Search Operators	70
+Vertical and Local Intent	72
+Crawling	73
+The Index	74
+The Knowledge Graph	74
+Vertical Indexes	75
+Private Indexes	76
+The Search Engine Results Page	76
+Organic Results	76
+Special Features	77
+Query Refinements and Autocomplete	83
+Search Settings, Filters, and Advanced Search	85
+Ranking Factors	85
+Relevance	86
+AI/Machine Learning's Impact on Relevance	86
+EEAT	87
+Local Signals and Personalization	88
+Timing and Tenure	89
+Legitimacy	90
+Source Diversity	91
+Keywords in Anchor Text	91
+Negative Ranking Factors	91
+User Behavior Data	92
+Conclusion	93
+4 Your SEO Toolbox.	95
+Spreadsheets	96
+Traffic Analysis and Telemetry	96
+Google Search Console	97
+Server-Side Log Analysis	98
+JavaScript Trackers	101
+Tag Managers	105
+Search Engine Tools and Features	106
+Autocomplete	106
+Google Ads Keyword Planner	107
+Google Trends	108
+Google News	108
+Related	109
+Search Operators	109
+SEO Platforms	110
+Semrush	111
+Ahrefs	112
+Searchmetrics	112
+Moz Pro	113
+Rank Ranger	114
+Other Platforms	114
+Automation	115
+YouTube Optimization	116
+Conclusion	116
+5 SEO Planning.	117
+Strategy Before Tactics	117
+The Business of SEO	118
+Ethical and Moral Considerations	119
+The Escape Clause	119
+Deciding on Accepting Work	120
+Typical Scenarios	120
+Startups (Unlaunched)	121
+Startups (Launched)	121
+Established Small Businesses	121
+Large Corporations	122
+Initial Triage	124
+Document Previous SEO Work	125
+Look for Black Hat SEO Efforts	125
+Watch for Site Changes That Can Affect SEO	126
+Identify Technical Problems	127
+Know Your Client	130
+Take Inventory of the Client's Relevant Assets	130
+Perform a Competitive Analysis	133
+Information Architecture	133
+SEO Content Strategy	135
+The Long Tail of Search	135
+Examples of Sites That Create Long-Tail Content	137
+Why Content Breadth and Depth Matter	139
+Can Generative AI Solutions Help Create Content?	142
+Measuring Progress	143
+Conclusion	143
+6 Keyword Research.	145
+The Words and Phrases That Define Your Business	145
+The Different Phases of Keyword Research	146
+Expanding Your Domain Expertise	147
+Building Your Topics List	147
+Preparing Your Keyword Plan Spreadsheet	149
+Internal Resources for Keyword Research	153
+Web Logs, Search Console Reports, and Analytics	153
+Competitive Analysis	154
+People	154
+External Resources for Keyword Research	158
+Researching Natural Language Questions	158
+Researching Trends, Topics, and Seasonality	161
+Keyword Valuation	162
+Importing Keyword Data	163
+Evaluating Relevance	164
+Priority Ratings for Business Objectives	166
+Filtering Out Low-Traffic Keywords	167
+Breaking Down High-Difficulty Keywords	168
+Trending and Seasonality	169
+Current Rank Data	171
+Finding the Best Opportunities	171
+Acting on Your Keyword Plan	176
+Periodic Keyword Reviews	177
+Conclusion	178
+7 Developing an SEO-Friendly Website.	179
+Making Your Site Accessible to Search Engines	180
+Content That Can Be Indexed	180
+Link Structures That Can Be Crawled	180
+XML Sitemaps	183
+Creating an Optimal Information Architecture	188
+The Importance of a Logical, Category-Based Flow	188
+Site Architecture Design Principles	192
+Flat Versus Deep Architecture	195
+Search-Friendly Site Navigation	199
+Root Domains, Subdomains, and Microsites	206
+When to Use a Subfolder	208
+When to Use a Subdomain	208
+When to Use a Separate Root Domain	209
+Microsites	209
+Selecting a TLD	212
+Optimization of Domain Names/URLs	213
+Optimizing Domains	213
+Picking the Right URLs	216
+Keyword Targeting	218
+Title Tags	220
+Meta Description Tags	222
+Heading Tags	224
+Document Text	225
+Image Filenames and alt Attributes	228
+Visual Search	229
+Boldface and Italicized Text	243
+Keyword Cannibalization	244
+Keyword Targeting in CMSs and Automatically
+Generated Content	245
+Effective Keyword Targeting by Content Creators	245
+Long-Tail Keyword Targeting	246
+Content Optimization	248
+Content Structure	248
+CSS and Semantic Markup	250
+Content Uniqueness and Depth	253
+Content Themes	256
+Duplicate Content Issues	256
+Consequences of Duplicate Content	258
+How Search Engines Identify Duplicate Content	259
+Copyright Infringement	263
+Example Actual Penalty Situations	263
+How to Avoid Duplicate Content on Your Own Site	264
+Controlling Content with Cookies and Session IDs	266
+What's a Cookie?	267
+What Are Session IDs?	267
+How Do Search Engines Interpret Cookies and Session IDs?	269
+Why Would You Want to Use Cookies or Session IDs
+to Control Search Engine Access?	269
+Content Delivery and Search Spider Control	270
+Cloaking and Segmenting Content Delivery	270
+Reasons for Showing Different Content to
+Search Engines and Visitors	271
+Leveraging the robots.txt File	273
+Using the rel="nofollow" Attribute	278
+Using the Robots Meta Tag	280
+Using the rel="canonical" Attribute	283
+Additional Methods for Segmenting Content Delivery	285
+Redirects	288
+Why and When to Redirect	288
+Good and Bad Redirects	288
+Methods for URL Redirecting and Rewriting	289
+How to Redirect a Home Page Index File Without Looping	295
+Using a Content Management System	297
+CMS Selection	303
+Third-Party CMS or Ecommerce Platform Add-ons	303
+CMS and Ecommerce Platform Training	304
+JavaScript Frameworks and Static Site Generators	304
+Types of Rendering	305
+JavaScript Frameworks	308
+Jamstack	308
+Problems That Still Happen with JavaScript	310
+Best Practices for Multilingual/Multicountry Targeting	311
+When to Enable a New Language or Country
+Version of Your Site	312
+When to Target a Language or Country with a
+Localized Website Version	313
+Configuring Your Site's Language or Country Versions to
+Rank in Different Markets	314
+The Impact of Natural Language Processing	323
+Entities	324
+Fair Use	327
+Structured Data	328
+Schema.org	329
+Schema.org Markup Overview	332
+How to Use Schema.org	334
+Summarizing Schema.org's Importance	346
+Google's EEAT and YMYL	346
+Author Authority and Your Content	349
+Why Did Google End Support for rel="author"?	350
+Is Author Authority Dead for Google?	351
+Author Authority and EEAT	352
+Author Authority Takeaways	352
+Google Page Experience	355
+Use of Interstitials and Dialogs	355
+Mobile-Friendliness	356
+Secure Web Pages (HTTPS and TLS)	358
+Core Web Vitals	358
+How Much of a Ranking Factor Are Core Web Vitals?	362
+Using Tools to Measure Core Web Vitals	366
+Optimizing Web Pages for Performance	367
+Approach to Rendering Pages	368
+Server Configuration	369
+Ecommerce/CMS Selection and Configuration	370
+Analytics/Trackers	370
+User Location and Device Capabilities	371
+Domain Changes, Content Moves, and Redesigns	371
+The Basics of Moving Content	372
+Large-Scale Content Moves	372
+Mapping Content Moves	373
+Expectations for Content Moves	376
+Maintaining Search Engine Visibility During and
+After a Site Redesign	377
+Maintaining Search Engine Visibility During and
+After Domain Name Changes	378
+Changing Servers	380
+Changing URLs to Include Keywords in Your URL	382
+Accelerating Discovery of Large-Scale Site Changes	382
+Conclusion	384
+8 SEO Analytics and Measurement.	385
+Why Measurement Is Essential in SEO	386
+Analytics Data Utilization: Baseline, Track, Measure, Refine	386
+Measurement Challenges	387
+Analytics Tools for Measuring Search Traffic	388
+Valuable SEO Data in Web Analytics	388
+Referring Domains, Pages, and Sites	389
+Event Tracking	389
+Connecting SEO and Conversions	391
+Attribution	393
+Segmenting Campaigns and SEO Efforts by Conversion Rate	394
+Increasing Conversions	394
+Calculating SEO Return on Investment	394
+Diagnostic Search Metrics	396
+Site Indexing Data	397
+Index-to-Crawl Ratio	398
+Search Visitors per Crawled Page	398
+Free SEO-Specific Analytics Tools from Google and Bing	398
+Using GA4 and GSC Together	399
+Differences in How GA4 and GSC Handle Data	399
+  Differences Between Metrics and Dimensions in GA4 and GSC 400 First-Party Data and the Cookieless Web	401
+Conclusion	402
+9 Google Algorithm Updates and Manual Actions/Penalties.	403
+Google Algorithm Updates	404
+BERT	404
+Passages and Subtopics	406
+MUM	408
+Page Experience and Core Web Vitals	408
+The Link Spam Update	410
+The Helpful Content Update	411
+Broad Core Algorithm Updates	412
+Functionality Changes	413
+Google Bug Fixes	415
+Google Search Console	415
+Google Webmaster Guidelines	416
+Practices to Avoid	417
+Good Hygiene Practices to Follow	420
+Quality Content	420
+Content That Google Considers Lower Quality	422
+The Importance of Content Diversity	424
+The Role of Authority in Ranking Content	427
+The Impact of Weak Content on Rankings	427
+Quality Links	428
+Links Google Does Not Like	431
+Cleaning Up Toxic Backlinks	436
+Sources of Data for Link Cleanup	438
+Using Tools for Link Cleanup	439
+The Disavow Links Tool	440
+Google Manual Actions (Penalties)	442
+Types of Manual Actions/Penalties	443
+Security Issues	449
+Diagnosing the Cause of Traffic/Visibility Losses	449
+Filing Reconsideration Requests to Remediate
+Manual Actions/Penalties	451
+Recovering from Traffic Losses Not Due to a
+Manual Action/Penalty	452
+Conclusion	453
+10 Auditing and Troubleshooting.	455
+SEO Auditing	455
+Unscheduled Audits	456
+Customized Approaches to Audits	456
+Pre-Audit Preparations	458
+Additional SEO Auditing Tools	459
+Core SEO Audit Process Summary	461
+Sample SEO Audit Checklist	462
+Auditing Backlinks	472
+SEO Content Auditing	473
+Troubleshooting	475
+Pages Not Being Crawled	475
+Page Indexing Problems	479
+Duplicate Content	480
+Broken XML Sitemaps	482
+Validating Structured Data	483
+Validating hreflang Tags	486
+Local Search Problems	486
+Missing Images	487
+Missing alt Attributes for Images	488
+Improper Redirects	488
+Bad or Toxic External Links	488
+Single URL/Section Ranking/Traffic Loss	490
+Whole Site Ranking/Traffic Loss	492
+Page Experience Issues	494
+Thin Content	496
+Poor-Quality Content	497
+Content That Is Not Helpful to Users	498
+Google Altering Your Title or Meta Description	499
+Hidden Content	500
+Conclusion	502
+11 Promoting Your Site and Obtaining Links.	503
+Why People Link	504
+Google's View on Link Building	505
+How Links Affect Traffic	508
+Finding Authoritative, Relevant, Trusted Sites	510
+Link Analysis Tools	511
+Identifying the Influencers	512
+Determining the Value of Target Sites	513
+Creating a Content Marketing Campaign	514
+Discuss Scalability	515
+Audit Existing Content	516
+Seek Organically Obtained Links	517
+Researching Content Ideas and Types	517
+Articles and Blog Posts	518
+Videos	518
+Research Reports, Papers, and Studies	519
+Interactives	520
+Collaborations with Other Organizations	522
+Collaborations with Experts	522
+Quizzes and Polls	523
+Contests	524
+Cause Marketing	525
+Comprehensive Guides and In-Depth Content Libraries	526
+Infographics	527
+Tools, Calculators, or Widgets	527
+Viral Marketing Content	528
+Memes	529
+Content Syndication	529
+Social Media Posts	530
+Creating Remarkable Content	530
+Hiring Writers and Producers	531
+Generating and Developing Ideas for
+Content Marketing Campaigns	532
+Don't Be a Troll	535
+Don't Spam, and Don't Hire Spammers	535
+Relationships and Outreach	536
+Building Your Public Profile	536
+Link Reclamation	537
+Link Target Research and Outreach Services	538
+Qualifying Potential Link Targets	540
+The Basic Outreach Process	541
+What Not to Do	552
+Outbound Linking	554
+Conclusion	555
+12 Vertical, Local, and Mobile SEO.	557
+Defining Vertical, Local, and Mobile Search	558
+Vertical Search	558
+Local and Mobile Search	559
+The Impact of Personalization	560
+Journeys and Collections	561
+How Local Is Local Search?	562
+Vertical Search Overlap	563
+Optimizing for Local Search	564
+Where Are Local Search Results Returned?	566
+Factors That Influence Local Search Results	570
+Optimizing Google Business Profiles	571
+Customer Reviews and Reputation Management	574
+Understanding Your Local Search Performance	576
+The Problem of Fake Competitors	582
+Common Myths of Google Business Profile Listings	586
+Optimizing On-Site Signals for Local	590
+Optimizing Inbound Links for Local	591
+Optimizing Citations for Local	592
+Structured Data for Google Business Profile Landing Pages	593
+Image Search	594
+Image Optimization Tips	596
+Image Sharing Sites	599
+News Search	602
+Google News	603
+Measuring News Search Traffic	616
+Video Search	618
+YouTube	619
+Google Videos and Universal Search	635
+Conclusion	641
+13 Data Privacy and Regulatory Trends.	643
+The Consumer Data Privacy Revolution	643
+The IAB Sounds the Alarm	644
+Privacy Legislation Overview	644
+Third-Party Cookie Deprecation	651
+Google's Privacy Sandbox	652
+Google's Topics API	652
+Google's Protected Audience API	653
+Google Analytics 4	653
+Apple's Consumer-Friendly Privacy Shift	654
+Conclusion	654
+14 SEO Research and Study.	655
+SEO Research and Analysis	655
+SEO Forums	656
+Websites	656
+Subreddits and Slack Channels	656
+Resources Published by Search Engines	656
+Interpreting Commentary	657
+SEO Testing	657
+Analysis of Top-Ranking Sites and Pages	660
+Analysis of Algorithmic Differences Across Various
+Search Platforms	661
+The Importance of Experience	662
+Competitive Analysis	663
+Content Analysis	663
+Internal Link Structure and Site Architecture	663
+External Link Attraction Analysis	664
+SEO Strategy Analysis	665
+Competitive Analysis Summary	665
+Using Competitive Link Analysis Tools	666
+Using Search Engine-Supplied SEO Tools	666
+Google Search Console	668
+Bing Webmaster Tools	674
+The SEO Industry on the Web	677
+Social Networks	677
+Conferences and Organizations	678
+SEO and Search Marketing Training	679
+Conclusion	681
+15 An Evolving Art Form: The Future of SEO.	683
+The Ongoing Evolution of Search	687
+The Growth of Search Complexity	687
+Natural Language Processing	689
+Entities and Entity Maps	690
+Meeting Searcher Intent	691
+More Searchable Content and Content Types	692
+Crawling Improvements	694
+New Content Sources	695
+More Personalized and User-Influenced Search	696
+User Experience	696
+Growing Reliance on the Cloud	697
+Increasing Importance of Local, Mobile, and Voice Search	698
+Local Search	698
+Voice Is Just a Form of Input	699
+Increased Market Saturation and Competition	699
+SEO as an Enduring Art Form	701
+The Future of Semantic Search and the Knowledge Graph	702
+Conclusion	706
+Index.	709
+
+
+
+Foreword
+
+
+
+Welcome to the 4th edition of The Art of SEO. I've always valued this book through each of its prior editions, and this edition is no different. If you have an interest in learning about search engine optimization (SEO), this book is one of the best places you could possibly start.
+But why does SEO remain such an important field of endeavor, and what is it that makes it worth learning? There are many driving factors for this. These include:
+
+• SEO as a discipline predates Google. It has been around for over 25 years. As a career, it offers so many different opportunities for those who become proficient with it. Want to think like a marketer today? Search Engine Optimization offers plenty of opportunities to work with a marketing focus. Want to be a tech geek today? No problem. There are many ways to engage with SEO from a deeply technical mindset.
+• In SEO, change is constant. Every two to three years, significant changes take place. The evolution of SEO has been fascinating to watch. In the very beginning, it was all about keywords. Then technical architecture became the next frontier. With the advent of Google, links became the next big thing. Following that, many drove great success by focusing on scaling content to meet user needs. And we may be entering the era of AI assisted SEO programs now. This constant rate
+
+of change makes SEO challenging, and to be successful you must be constantly learning. This can make it one of the most rewarding careers you can pursue.
+
+Some may raise the concern about the longevity of a career in SEO. Will it be around in five years? Won't AI spell the end for SEO? Those who worry about how Genera- tive AI may impact SEO are concerned that perhaps all content will be auto-generated in the future, or that in some way, humans won't be needed to implement websites.
+The reality is that today's AI algorithms don't really contain material knowledge on anything. They are able to spit back pretty good answers based on the language analysis of sites that they've found across the web, but the algorithms are highly prone to "hallucinations" (this is what the industry calls errors from Generative AI tools). For example, ChatGPT is widely known to make up references and facts alike.
+The biggest issue with Generative AI is not the error rate, however, it's the fact that these issues are hard to identify and fix. Finding these problems can be crowdsourced, but the likelihood is that the quantity of issues to be identified is so vast that it will take a very long time for crowdsourcing efforts to find the great majority of them. Finding them is not enough either, as a human then needs to decide how to tweak that part of the algorithm and this involves a human value judgment, leaving us to wonder which humans will we assign to make those judgments?
+AI is only the latest reason why people are speculating that SEO may be on the verge of becoming obsolete. This conversation comes up every two or three years. But those who raise these questions don't fully understand the underpinning of what makes SEO so important:
+
+• Users want to search for things online. This is a core need today, and AI, or any other technology, won't change that.
+• Search engines need third parties to make information available to them. In today's environment, this is done largely by information published by third parties via websites.
+
+This basic ecosystem will continue to exist for the foreseeable future, and as long as it does, SEO will be alive and well.
+OK, so SEO will be around for a long time, but how valuable is it, really? That's a great question! Per a Conductor study based on a review of six hundred enterprise websites, 36% of all web traffic comes from organic search. The authors of this book also shared data with me that they received directly from seoClarity, showing that across 800 enterprise sites, 48% of all traffic comes from SEO.
+
+In addition, SEO is one of the highest ROI channels available to an organization. A survey by the Search Engine Journal showed that 49% of respondents saw organic search as their highest ROI channel.
+That said, SEO tends to be hard for people to understand. Channels like email, display advertising, and paid search are direct response channels. You put some money in today and within a few days you have some money back. This makes measuring results quite easy. In contrast, investments in SEO can take many months to show results. By the time you see the results, you may not even be sure which site changes were responsible.
+All of this leads to confusion about the value of SEO and its reliability as a channel. This is what makes this book such a valuable resource. This updated edition of The Art of SEO addresses all these topics and more. For example, the book provides you with:
+
+• Background on how search engines work
+• A detailed approach to creating your SEO strategy
+• The ins and outs of keyword research
+• An introduction to the top SEO tools in the market
+• The most in-depth coverage of technical SEO that I've ever seen in one place
+• An in-depth look at how to deal with algorithm updates
+• A how-to for auditing and troubleshooting site issues
+• Complete coverage of vertical search, including how you should optimize for video search, YouTube, local search, and image search
+• A review of how you should approach analytics and ROI analysis
+• A vision of where SEO is going in the future
+
+Furthermore, this team of authors is uniquely qualified to bring this resource to you.
+Eric Enge was for a long time this mythical figure in SEO for me, always clearly on the forefront of SEO. His articles were among the first I read to learn SEO, and he always brought a clarity of vision on the industry that few bring. He continues to write and publish and offer the clarity that I have admired and respected for so long.
+I don't remember when I met coauthor Stephan Spencer, but it was probably at an SEO conference in 2008 or 2009. I was impressed with his insights and for a long time we had a dialogue going about SEO plug-ins for WordPress and potentially collaborat- ing. While that collaboration didn't happen, we did keep in touch, as Stephan was always one of the most clear-headed people in our industry.
+
+While I don't know coauthor Jessie Stricchiola personally, I do know her by reputa- tion. Her work as an expert consultant and witness in legal matters is extremely well known. This is a field that requires more than just an understanding of SEO, but also keen insight into the workings of the search industry and all the players within it.
+To summarize, a couple of things stand out. The first is that despite having seen the difference SEO can make in so many companies with my own eyes, most companies still don't really understand SEO and what it could bring them. When they do want to invest in SEO, what people think works for SEO is more often than not based on what I can only describe as nonsense. By reading this book and following its suggestions, you'll make better decisions on SEO and, more importantly, produce better results.
+The second thing is related, but oh so important: the realization that it's just so much easier to measure the impact of PPC, but it's also so much more expensive in the long run. As an investor interested in long-term sustainable marketing tactics, I keep pushing companies to not just do search marketing, but SEO specifically. This book will be among the things I'll give to the companies we invest in, and if you buy it, it'll help you build a good SEO program for your website too.
+
+-Joost de Valk Founder, Yoast
+
+
+
+
+
+
+Preface
+
+
+
+Search engine optimization (SEO) is a field that remains little understood by most organizations. To complicate matters more, SEO crosses over between marketing and technical disciplines, so it's not even clear where it should sit in most organizations. Yet, a successful SEO program for your website is often one of the highest-ROI activi- ties an organization can decide to invest in.
+We wrote this book to demystify this ever-changing, ever-evolving landscape. This latest edition is a complete revamp of the third edition of The Art of SEO, which was published in 2015. It covers all of the latest aspects of SEO, including EEAT and the impact of generative AI (ChatGPT, Google Bard, Bing Chat, Claude, etc.).
+
+Who This Book Is For
+You can think of this book as a complete guide to SEO 101, SEO 102, and so on, all the way through to SEO 500. As such, it can serve both as an essential manual for those seeking to learn SEO for the first time, and as an invaluable reference for those who are already experienced with SEO.
+
+How This Book Is Organized
+The first few chapters of the book represent a great starting place for those who are just beginning to learn about SEO, and the complexity of the material builds gradually from there. Chapters 5 and 6 provide you with guidance on how to get started with
+
+your SEO program, covering SEO strategy and keyword research. This is where you'll get oriented with what the situation is in your topical area and where your best opportunities lie to build market share.
+In Chapters 7 through 10, we address technical SEO in depth. While this grounding is essential for SEO beginners, these chapters are also filled with rich material for advanced SEO. Chapter 11 focuses on the role of links and strategies for attracting attention (and links) to your site. Chapter 12 is a comprehensive guide to optimizing for local and vertical search-news, video, and images-with each section going into a great deal of depth on how to drive SEO success in those areas. We've even included a detailed review of how to optimize your videos for ranking in YouTube (in addition to how to rank your videos in Google)!
+Chapters 13 and 14 cover other aspects of SEO, including the legal landscape as well as how to continue your development as a world-class SEO professional. Finally, Chapter 15 presents a vision of the future as we look into the crystal ball to see what may be coming our way over the next few years.
+Visit the book's website for FAQs and to post your own burning questions. You'll have access to special offers and discounts on various SEO tools and services. You can also get exclusive access to instructional videos related to the concepts in the book by emailing bonuses@artofseo.com.
+
+Why Us?
+As a group, this book's authors have over 60 years' experience working on SEO, a discipline involving deep proficiency in all aspects of digital marketing-from website development, information architecture, and user experience (UX) to market research, content strategy, analytics, conversion optimization, and data-driven decision making. These technical skills, along with the ability to merge the analytical with the creative, are essential elements of the SEO professional's toolkit. We have seen how SEO works over a relatively long period of time, and this book is our effort to share that knowl- edge with you.
+
+Conventions Used in This Book
+The following typographical conventions are used in this book:
+Italic
+Indicates new terms, URLs, email addresses, filenames, and file extensions.
+
+Constant width
+Used for program listings, as well as within paragraphs to refer to program ele- ments such as variable or function names, databases, data types, environment variables, statements, and keywords.
+Constant width bold
+Shows commands or other text that should be typed literally by the user.
+Constant width italic
+Shows text that should be replaced with user-supplied values or by values deter- mined by context.
+
+O'Reilly Online Learning
+NOTE
+For more than 40 years, O'Reilly Media has provided technology and business training, knowledge, and insight to help companies succeed.
+
+
+Our unique network of experts and innovators share their knowledge and expertise through books, articles, and our online learning platform. O'Reilly's online learning platform gives you on-demand access to live training courses, in-depth learning paths, interactive coding environments, and a vast collection of text and video from O'Reilly and 200+ other publishers. For more information, visit https://oreilly.com.
+
+How to Contact Us
+Please address comments and questions concerning this book to the publisher:
+
+O'Reilly Media, Inc.
+1005 Gravenstein Highway North Sebastopol, CA 95472
+800-889-8969 (in the United States or Canada) 707-829-7019 (international or local)
+707-829-0104 (fax)
+support@oreilly.com https://www.oreilly.com/about/contact.html
+
+We have a web page for this book, where we list errata, examples, and any additional information. You can access this page at https://oreil.ly/the-art-of-seo-4e.
+
+For news and information about our books and courses, visit https://oreilly.com. Find us on LinkedIn: https://linkedin.com/company/oreilly-media.
+Follow us on Twitter: https://twitter.com/oreillymedia. Watch us on YouTube: https://youtube.com/oreillymedia.
+Acknowledgments
+We'd like to thank the following people:
+
+• Contributors who helped us with their specialized expertise: Dalton Finney (tech- nical SEO), Jessica Fjeld (generative AI challenges), Greg Gifford (local search), Greg Jarboe (video search), Jeff Martin (video search), Marian Mursa (local search), Ralf Seybold (links and penalties), John Shehata (news search), Chris Silver Smith (image search), Aleyda Solis (international SEO), Mats Tolander (technical SEO), and Mark Traphagen (authorship and EEAT).
+• Our technical reviewers: Eli Schwartz, Chris Silver Smith, and Patrick Stox.
+• Our O'Reilly copyeditor: thanks to Rachel Head for her countless hours dredging her way through hundreds and hundreds of pages. You helped make this a better book.
+
+C H A P T E R O N E
+
+
+
+
+    Search: Reflecting Consciousness and Connecting Commerce
+The term search engine optimization (SEO) is a bit of a misnomer. People who work in the SEO field do not optimize search engines; they optimize web pages so that they are accessible and appealing to both search engines and people. Therefore, a more appropriate label would be "search result optimization," because the immediate goal of SEO is to improve the rankings of your web pages in search results. Notice we didn't say "the ultimate goal," because ranking higher in search results is not an end unto itself; it is only a means for increasing traffic to your site, which-if it is optimized for converting visitors to customers-will help your business be more successful.
+Why is this such a critical field? Quite simply, search has become integrated into the fabric of our society. More than 7.5 billion Google searches are performed every day, which equates to more than 85,000 queries per second (with users typically expecting that responses to their search queries will be returned in less than a second). Further, it is estimated that more than half of all traffic across the web comes from organic (nonpaid) search, which means that for many businesses, SEO is the most important digital marketing investment.
+Through the power of search, we're often able to find whatever we want in just a minute or two, or even a few seconds. People can use search to conduct many of their research activities and shopping, banking, and social transactions online-something that has changed the way our global population lives and interacts. As a result, it's critical for owners of websites to increase their visibility in search engine results as much as they can. Obtaining the desired prime search result real estate is not a simple matter, but it is one that this book aims to deconstruct and demystify as we examine, explain, and explore the ever-changing art of search engine optimization.
+
+Is This Book for You?
+The short answer? Yes, if you're someone whose work touches a website. For the advanced SEO, this book is filled with material that will help you develop your SEO skills even further. For beginners or intermediates, or for people who work in peripheral fields or roles (such as product managers, marketers, graphic designers, web developers, or other roles that have anything to do with creating, managing, or maintaining a website), this book will help you learn to apply SEO to your work on a day-to-day basis.
+Most SEO books are short and focus only on the technical aspects. Understanding these aspects is critical, as failure on this front can prevent your pages from being accessible to Google or from ranking as well as they should, regardless of how great the content is on your site. Unfortunately, most content management systems (CMSs) and ecommerce platforms are not naturally optimized for SEO, and the same is true of most JavaScript frameworks and static site generators (if you're using one of these). This fact is what makes technical SEO such a critical area of expertise, and it's one that demands a large amount of time and energy to successfully execute.
+Ultimately, though, technical SEO is just table stakes, and its main benefit is that it enables your pages to compete for rankings. It's the quality and depth of your content and your overall reputation and visibility online (including the links that your site earns) that drives how highly you rank. For these reasons, SEO also has a major strategic component.
+These aspects of SEO require you to think holistically and creatively. You have to research trends and personas for the industry or market that your site is designed for, analyze the sites and companies that compete with it, develop excellent content and try to get high-value sites to link to it, approach your topics and keywords (search terms and phrases) from a variety of different search perspectives and contexts, docu- ment your work, and measure your progress, all while communicating effectively with various managers, engineers, designers, and administrators who control differ- ent aspects of the website. You'll learn more about the strategic aspects of SEO in Chapter 4.
+
+SEO Myths Versus Reality
+There are few industries or professions that suffer more from myths and misconcep- tions than SEO. Here are some of the more common ones:
+Myth: SEO is just a few secret tricks.
+Reality: SEO is a complex, multifaceted, iterative process, and it takes time and effort to fully realize its potential. About the only time you'll reliably see a sub- stantial "quick win" in legitimate SEO is when you fix a technical issue that
+
+prevents search engines from properly accessing your website content. There may be some lesser-known tools or techniques, but there aren't really any secrets per se. And if there were, then over time, search engines would find them and fix them, and you'd most likely lose any rankings you'd gained by exploiting them.
+Furthermore, optimizing for search engines does not mean cheating or manipulat- ing them. Optimizing a web page is a lot like optimizing a career resume or a profile on a dating site; the goal is to enable your site to be found quickly and easily by the right people, without sabotaging yourself with lies or misrepresenta- tions.
+Myth: All SEO is spammy and unethical.
+Reality: There are some unethical SEO practices out there that seek to exploit loopholes in search engine algorithms, intentionally violate rules or guidelines published by search engines, or circumvent systems designed to detect or prevent the manipulation of organic search rankings. We don't teach such "black hat" tactics in this book; in fact, we specifically implore you to avoid them. Like pretty much everything else worth doing in life, you will get the most benefit out of SEO efforts that focus on mastering the fundamentals instead of exploiting sketchy shortcuts.
+Myth: SEO that is not spammy and unethical is a waste of time and money.
+Reality: The black hat stuff sometimes does get a page to the top of the search results, but only for a short period of time before it gets banned from the index. When unethical SEO practices are detected, search engines are quick to punish sites that employ them. There are no legitimate SEO tactics that will instantly rank a new page highly for a high-volume search term; it takes time, effort, and money to compete for the top 10 spots. It's a lot like bodybuilding: steroids may yield big gains very quickly, but at what cost?
+Myth: You need to be a web developer or an IT expert to do SEO.
+Reality: If you're not tech-savvy, there are SEO tools (which are covered in Chap- ter 4) that can help you discover and diagnose technical SEO issues. You can then rely on those who are responsible for building or maintaining your site to make the necessary changes. You'll benefit from being familiar with HTML, but you likely won't have to do any coding or Unix command-line wizardry.
+Myth: SEO is only for ecommerce sites or huge corporations.
+Reality: If you want to be found via web search, then you will benefit from search engine optimization. Your site doesn't have to directly sell anything. Do you have a mailing list that you want people to sign up for? Do you want to collect qualified sales leads through a web form or survey? Perhaps you have a content-centric site such as a blog that generates revenue from ads or affiliate links, or from paid
+
+subscriptions; or maybe you want to promote your book, movie, or band. If more traffic would help you in any way, then you'll benefit from SEO.
+Myth: Optimizing my site means I'll have to pay for a complete redesign, or use a different content management system, or pay for upgraded web hosting.
+Reality: In some cases, you may need to make changes to your site or web host in order to solve technical SEO problems. There are many different options, though, and if you will benefit from increased traffic, then it's probably worth the effort and expense. There is no universal rule of SEO that says you must use Apache or WordPress or anything like that.
+Myth: SEO requires me to be active on social media and schmooze with influencers.
+Reality: You don't necessarily have to do anything like that if it doesn't make sense for your organization. It certainly will help you obtain more incoming links (this is explained in Chapter 10), but if your site is search friendly and you have great content, then you'll eventually get some links without having to solicit for them-it'll just take more time and may not yield the same level of improvement in rank.
+Myth: Buying Google Ads (or hosting a Google Ads banner on my site) is cheaper than SEO and works just as well.
+Reality: Paid search will certainly yield more visitors than doing nothing, but successful SEO programs usually deliver much more traffic with a better return on investment (ROI) than paid campaigns, and will not directly influence organic search rankings. You could pay for ads for your best "link-worthy" content (this is covered in Chapter 10) and hope that some of the people who click the ads will then share the links; this could indirectly increase your search rankings for some keywords, but there is no direct correlation to buying a Google ad and ranking higher in organic results.
+If paying for search ads in Google or Bing is working for you and there is a decent ROI, then great-keep doing it! But why would you not put in the effort to improve your organic rankings as well? You don't have to pay every time someone clicks on a high-ranking organic result, and as a result, SEO frequently provides a higher ROI than paid search campaigns.
+SEO does not have to be expensive. Certain scenarios are, of course, inherently costly, such as if you are competing against huge corporations for very difficult keywords, are attempting to rehabilitate a site that has been banned for previous black hat shenanigans, or have tens of thousands of pages with messy HTML. Even if you run into a cost barrier like one of these, though, you can still find creative alternatives or commit to making smaller incremental improvements over a longer period.
+
+Hosting Google AdSense units on your pages won't impact how these pages rank in organic results either. If your goal is to get indexed, then you're much better off submitting an XML sitemap to Google Search Console (this is covered in Chapter 6) instead. If your site is a content site, then Google AdSense may be worthwhile from a revenue standpoint, but it may show ads from your compet- itors. And if your goal is to get conversions (sales, sign-ups, leads), then why would you want to show ads for them?
+
+NOTE
+Google Ads is Google's parent company Alphabet Inc.'s largest source of reve- nue. In general, paid search placement is not within the scope of SEO. However, Google Ads data can be useful for keyword research purposes and for A/B testing of organic landing pages, and many SEO professionals use Google Ads data, including conversion and user engagement data, to assist in SEO strategy development.
+
+
+The Mission of Search Engines
+While those on the internet are free to use any of the many available search engines to find what they are seeking, Google remains the dominant player worldwide, with over 90% market share (see Figure 1-1). Nonetheless, the burden is on Google (and other search engines) to provide a satisfying search experience. For the most part, search engines aim to accomplish this by presenting the most relevant results and delivering them as fast as possible, as users will return to the search engine they believe will return the results they want in the least amount of time.
+To this end, search engines invest a tremendous amount of time, energy, and capital in improving their speed and relevance. This includes performing extensive studies of user responses to their search results, continuous testing and experimentation, analysis of user behavior within the search results (discussed later in this chapter), and application of advanced machine learning techniques to tune their search algorithms.
+Search engines such as Google generate revenue primarily through paid advertising. The great majority of this revenue comes from a pay-per-click (or cost-per-click) model, in which the advertisers pay only for the number of users who click on their ads. Because the search engines' success depends so greatly on the relevance of their search results, manipulations of search engine rankings that result in nonrelevant results (generally referred to as spam) are dealt with very seriously.
+Each major search engine employs teams of people who focus solely on finding and eliminating spam from their search results (these are referred to as "webspam" teams). Larger search engines such as Google additionally apply dynamic algorithms that detect and deal with poor-quality content and/or spam automatically. These efforts
+
+to fight spam matter to SEO professionals because they need to be careful that the tactics they employ will not be considered spammy by the search engines.
+Figure 1-1 shows the global market share for search engines as of June 2023, accord- ing to Statcounter. As you can see, Google is the dominant search engine on the web worldwide, with a 92.5% worldwide market share. Bing comes in a distant second, with a 3.1% share.
+
+Figure 1-1. Search engine market share (source: Statcounter)
+
+However, in some markets, Google is not dominant. In China, for instance, Baidu is the leading search engine, and Yandex is the leading search engine in Russia. The fact remains, however, that in most world markets, a heavy focus on Google is a smart strategy for SEO.
+
+Goals of Searching: The User's Perspective
+The basic goal of a search engine user is to obtain information relevant to a specific set of search terms entered into a search box, also known as a query. A searcher may formulate the query as a question, but the vast majority of searches are performed by users simply entering word combinations-leaving the search engines to do the work of determining a query's "intent." One of the most important elements of building an SEO strategy for a website is thus developing a thorough understanding of the psychology of your target audience and how they use words and concepts to obtain information about the services and/or products you provide. Once you understand how the average search engine user-and, more specifically, your target audience- utilizes query-based search engines, you can more effectively reach and retain those users.
+
+Search engine usage has evolved over the years, but the primary principles of conduct- ing a search remain largely unchanged. Most search engine use includes the following stages:
+
+1. Users experience the need for information. They may be looking for information on a specific website, and they will search for that website (a navigational query); they might want to learn something (an informational query); or they might want to buy something (a transactional query). We will discuss the challenge of determining the user's intent in more detail in the following section.
+2. Users formulate that need using a string of words and phrases (i.e., search terms), comprising the query. Data provided to us by seoClarity in March 2021 (see Figure 1-2) showed that 58.8% of user search queries are one to three words long, though as users become more web savvy, they may use longer queries to generate more specific results more quickly.
+
+Figure 1-2. Search query lengths (source: seoClarity)
+
+3. Users execute the query, check the results, and, if they seek additional informa- tion, try a refined query.
+
+When this process results in the satisfactory completion of a task, the user, search engine, and site providing the information or result have a positive experience.
+
+Determining User Intent: A Challenge for Search Marketers and Search Engines
+Good marketers are empathetic, and smart SEO practitioners share with search engines the goal of providing searchers with results that are relevant to their queries. Therefore, a crucial element of building an online marketing strategy around SEO and organic (nonpaid) search visibility is understanding your audience and how they think about, discuss, and search for your service, product, and brand.
+Search engine marketers need to be aware that search engines are tools-resources driven by intent toward a content destination. Using the search box is fundamentally different from entering a URL into the browser's address bar, clicking on a bookmark, or clicking a link to go to a website. Searches are performed with intent: the user wants to find specific information, rather than just land on it by happenstance. Search is also different from browsing or clicking various links on a web page.
+This section provides an examination of the different types of search queries and their categories, characteristics, and processes.
+Navigational Queries
+Users perform navigational searches with the intent of going directly to a specific web- site. In some cases, the user may not know the exact URL, and the search engine serves as the equivalent of an old-fashioned telephone directory. Figure 1-3 shows an example of a navigational query.
+You can use the following two criteria to evaluate whether it's worth ranking for a navigational query related to a competing brand:
+Opportunities: Pull searcher away from destination; get ancillary or investigatory traffic.
+However, a September 2019 study by Eric Enge (one of this book's authors) published by Perficient shows that nearly 70% of all clicks go to the first search result for branded queries.
+Average traffic value: Very high when searches are for the publisher's own brand.
+These types of searches tend to lead to very high conversion rates. However, the searchers are already aware of the company brand; some percentage of these queries will not represent new customers, and for all these queries the user began with an intent to visit the brand site. For brands other than the one being searched for, the click-through rates will tend to be low, but this may represent an opportunity to take a customer away from a competitor.
+
+
+Figure 1-3. A navigational query
+
+Informational Queries
+Informational searches involve an incredibly broad range of queries. Consider the many types of information people might look for: local weather, driving directions, a celeb- rity's recent interview, disease symptoms, self-help information, how to train for a specific type of career...the possibilities are as endless as the human capacity for thought. Informational searches are primarily nontransaction-oriented (although they can include researching information about a product or service); the information itself is the goal, and in many cases no interaction beyond clicking and reading is required for the searcher's query to be satisfied. Figure 1-4 shows an example of an informa- tional query.
+Informational queries are often lower converting but good for building brand and attracting links. Here is how you can evaluate whether a query is worth pursuing:
+
+Opportunities
+Provide searchers who are already aware of your brand with positive impressions of your site, information, company, and so on; attract inbound links; receive attention from journalists/researchers; potentially convert users to sign up or pur- chase.
+Average traffic value
+The searcher may not be ready to make a purchase, or may not even have long-term purchase intent, so the value tends to be "medium" at best. However, many of these searchers will later perform a more refined search using more specific search terms, which represents an opportunity to capture mindshare with those potential customers. For example, informational queries that are focused on researching commercial products or services can have high value.
+
+Figure 1-4. An informational query
+
+Transactional Queries
+Transactional searches don't necessarily have to involve a credit card or immediate financial transaction. Other examples might include creating a Pinterest account, signing up for a free trial account at DomainTools, or finding a good local Japanese restaurant for dinner tonight. Figure 1-5 shows an example of a transactional query.
+These queries tend to be the highest converting. You can use the following two criteria to evaluate the value of a specific query to you are:
+
+Opportunities
+Achieve a transaction (financial or other).
+Average traffic value
+Very high. Transactions resulting from these queries may not be immediate, and it's up to the site receiving the related traffic to provide enough value to the user to convert them on their site or to make enough of an impression that the user comes back and converts later.
+
+Figure 1-5. A transactional query
+
+Local Queries
+As the name implies, local searches relate to users seeking information as regards a specific location, such as where they currently are, or a location that they reference in the query. Examples include looking for directions to the nearest park, a place to buy a slice of pizza, or the closest movie theater (Figure 1-6). Local queries are not an intent in the same way that navigational, informational, and transactional queries are, but represent a subclass that cuts across all types of queries. Many local queries are transactional (though they differ as they relate to actions or transactions that will occur in person), but you can have navigational or informational local queries as well.
+
+
+Figure 1-6. A local query
+
+Consider the following when evaluating the value of ranking for a local query:
+Opportunities
+Drive foot traffic based on the proximity of the searcher. Offers a strong potential to achieve a transaction (financial or other).
+Average traffic value
+Very high. When users search for something near them, the probability that they are interested in direct interaction, and possibly a near-term transaction, is high. We can see that in the way Google has tailored its search engine results pages (SERPs) for local queries to meet this demand.
+
+Searcher Intent
+When you are building keyword research charts for clients or for your own sites, it can be incredibly valuable to determine the intent of each of your primary keywords. Table 1-1 shows some examples.
+
+Table 1-1. Examples of query types
+Term	Queries	Intent	Monetary value per visitor
+Beijing Airport5,400NavigationalLowHotels in Xi'an110InformationalMid7-Day China tour package30TransactionalHighSichuan jellyfish recipe53InformationalLow
+Hopefully, this data can help you to think carefully about how to serve different kinds of searchers based on their individual intents, and how to concentrate your efforts in the best possible areas. This type of analysis can help you determine where to concentrate content and links, as well as where to place ads.
+Although informational queries are less likely to immediately convert into sales, this does not mean you should forgo pursuing rankings on these queries; getting your informative content in front of users seeking information can be incredibly valuable and can turn users into potential customers. As you can see in Figure 1-7, data from Conductor shows that users who find useful informational content on your site are 131% more likely to come to you to make a related purchase at a later date. They may also decide to share your information with others via their own websites, or through social media engagement-an indirect but potentially more valuable result than converting the single user into a paying customer.
+One problem in search is that when most searchers formulate their search queries, their input is limited to just a handful of words (per Figure 1-2, 78.8% of queries consist of one to four words). Because most people don't have a keen understanding of how search engines work, they often provide queries that are too general or that are presented in a way that does not provide the search engine (or the marketer) with what it needs to determine, with 100% accuracy 100% of the time, their specific intent.
+Some search engine users may not have a specific intent behind a query beyond curi- osity about a currently trending topic or a general subject area. While this can make it challenging for a search engine to deliver relevant results, it poses a great opportunity for the digital marketer to capture the mind of someone who may not know exactly what they are looking for, but who is interested in the variety of results the search engine delivers in response to a general query. These types of queries are important to most businesses because they often get the brand and site on the searcher's radar,
+
+which initiates the process of building trust with the user. Over time, the user will move on to more specific searches that are more transactional or navigational in nature.
+If, for instance, companies buying pay-per-click (PPC) search ads bought only the high-converting navigational and transactional terms and left the informational ones to competitors, they would lose market share to those competitors. Over the course of several days, a searcher may start with digital cameras, hone in on Olympus OMD, and then ultimately buy from the store that showed up in their search for digital cameras and pointed them in the direction of the Olympus OMD model.
+
+Figure 1-7. How informational content impacts user trust (source: Conductor)
+
+To illustrate further, consider the case where a user searches for the phrase Ford Focus. They likely have numerous considerations in mind when searching, even though they only use those two words in the query. Figure 1-8 gives an idea of what the range of those considerations might be.
+As we can see, the user's needs may have many layers. They may be specifically inter- ested in a hatchback, a sedan, an electric car, or one of many specific model numbers. If they're buying a used car, they may want to specify the year or approximate mileage of the car. The user may also care about the car having aluminum wheels, Spotify, a roof rack, front and rear seat warmers, and various other options.
+
+
+Figure 1-8. The pyramid of user needs
+
+Research published by Think with Google generalizes this concept, referring to it as the "messy middle." As Figure 1-9 shows, this is the gap between the trigger that causes the user to take action and the actual purchase.
+
+Figure 1-9. Typical user journey to a purchase
+
+The exploration/evaluation part of this journey is highly complex and differs for every user. Whatever desires/needs users bring to this process, it's incumbent on the website to try its level best to meet them in order to earn the conversion.
+Given the general nature of how query sessions start, though, determining intent is extremely difficult, and it can result in searches being performed where the user does not find what they want-even after multiple tries. Research from the American Cus- tomer Satisfaction Index (ACSI) found that during the most recent reporting period, 79% of Google users and 71% of Bing users were satisfied with their experiences. Figure 1-10 shows the ACSI satisfaction scores for Google from 2002 through 2020.
+
+Figure 1-10. User satisfaction with Google over time (source: Statista)
+
+While 79% satisfaction is an amazing accomplishment given the complexity of build- ing a search engine, this study still showed that over 20% of users were not satisfied with Google's search results. These numbers could reflect users' dissatisfaction with the number of ads that increasingly infiltrate the SERPs.
+The important takeaway here is that in all instances, determining searcher intent remains a challenge; and when the searcher's intent is broad, there is ample opportu- nity to leverage your content assets with SEO.
+As an SEO practitioner, you should be aware that some of the visitors you attract to your site may have arrived for the wrong reasons (i.e., they were really looking for something else), and these visitors are not likely to help you achieve your digital marketing goals. Part of your task in performing SEO is to maintain a high level of relevance in the content placed on the pages you manage, to help minimize this level
+
+of waste-while still attempting to maximize your overall presence in the SERPs and gain brand exposure.
+
+How Users Search
+Search engines invest significant resources into understanding how people use search, enabling them to produce better (faster, fresher, and more relevant) search engine results. For website publishers, the information regarding how people use search can be used to help improve the usability of a site as well as search engine compatibility.
+User interactions with search engines can also be multistep processes, as indicated in the user search session documented by Microsoft and shown in Figure 1-11.
+
+Figure 1-11. "Merrell shoes" user search session
+
+In this sequence, the user performs 5 searches over a 55-minute period before making a final selection. They are clearly trying to solve a problem and work at it in a persis- tent fashion until the task is done.
+In April 2021, ad management platform provider Marin Software provided us with data about consumer latency in completing a purchase based on a review of all their clients. As you can see in Figure 1-12, for 55% of these users the conversion happens the same day on which the initial visit occurs for 100% of customers. In other words, there is no latency at all for those companies.
+
+
+Figure 1-12. Latency in completing purchases
+
+However, for 45% of the companies there is some latency in completion of purchases. This behavior pattern indicates that people are thinking about their tasks in stages. As in our Merrell shoes example in Figure 1-11, people frequently begin with a general term and gradually get more specific as they get closer to their goal. They may also try different flavors of general terms. In Figure 1-11, it looks like the user did not find what they wanted when they searched on Merrell shoes, so next they tried discount Merrell shoes. The user then refined the search until they finally settled on Easy Spirit as the type of shoe they wanted.
+This is just one example of a search sequence, and the variety is endless. Figure 1-13 shows another search session, once again provided courtesy of Microsoft. This session begins with a navigational search, where the user simply wants to locate the travel website Orbitz.com. The user's stay there is quite short, and they progress to a search on Cancun all inclusive vacation packages. Following that, the user searches on a few specific resorts and finally settles on cancun riviera maya hotels, after which it appears they may have booked a hotel-the final site visited from among that set of search results is for Occidental Hotels & Resorts, and the direction of the searches changes after that. At this point, the user begins to look for things to do while in Cancun. They conduct a search for cancun theme park and then begin to look for information on xcaret, a well-known eco park in the area.
+
+
+Figure 1-13. Travel user search session
+
+Users can traverse countless different scenarios when they are searching for some- thing. The example search sessions illustrated in Figures 1-11 and 1-13 represent traditional desktop interactions. Behavior will differ somewhat on mobile devices. For example, with respect to local search, data from Google indicates that "76% of people who conduct a local search on their smartphone visit a physical place within 24 hours and 28% of those searches result in a purchase." Search engines do a lot of modeling of these different types of scenarios to enable them to provide better results to users. The SEO practitioner can benefit from a basic understanding of searcher behavior as well. We will discuss searcher behavior in more detail in Chapter 2.
+
+How Search Engines Drive Ecommerce
+People make use of search engines for a wide variety of purposes, with some of the most popular being to research, locate, and buy products. Digital Commerce 360 estimates that the total value of US ecommerce sales in 2022 reached $1.03 trillion. Statista forecasts that worldwide ecommerce retail sales will reach $7.4 trillion by 2025, as shown in Figure 1-14.
+
+Figure 1-14. Statista online retail forecast to 2025 (source: Statista)
+
+It is important to note that search and offline behavior have a heavy degree of interac- tion, with search playing a growing role in driving offline sales. Figure 1-15 shows data from a May 2019 study by BrightEdge which found that 27% of the traffic across their client base came from paid search. Note that this dataset is drawn from BrightEdge's customer mix of over 1,700 global customers, including 57 of the Fortune 100.
+Driving traffic to your ecommerce site isn't just about driving conversions of every visitor. As shown in Figure 1-16, visitors that come to your site from a search engine may be at any stage of the customer journey. This is why ecommerce sites should consider creating content for each and every stage-capturing visitors when they are
+
+in the initial stages of discovery and research can significantly increase your chances of making the sale when they are ready to buy.
+
+Figure 1-15. Sources of traffic to BrightEdge customer sites (source: BrightEdge)
+
+Figure 1-16. Search delivers traffic across the customer journey
+
+Types of Search Traffic
+By now, you should be convinced that you want your site content to be prominently displayed within SERPs. However, data shows that you may not want to be #1 in the paid search results, because the cost incurred to gain the top position in a PPC campaign can reduce the total net margin of your campaign. As shown in Figure 1-17, London-based Hallam Internet published data in 2019 that suggests that the #3 and #4 ad positions may offer the highest ROI.
+
+Figure 1-17. Position 1 in search ads may not be the most profitable
+
+Of course, many advertisers may seek the #1 position in paid search results, as it offers benefits including branding and maximizing market share. For example, if an advertiser has a really solid backend on their website and is able to make money when they are in the top position, they may well choose to pursue it. Nonetheless, the data from Hallam suggests that, due to the lower ROI, there are many organizations for which being #1 in paid search does not make sense.
+
+Search Traffic by Device Type
+The majority of traffic to websites today comes from mobile devices. In 2021, while working at Perficient, Eric Enge (one of this book's authors) conducted a comprehen- sive study of mobile versus desktop traffic that showed that over 60% of all traffic in the US and nearly 70% globally comes from mobile devices, with tablets accounting for a further 3% (as shown in Figure 1-18).
+
+Figure 1-18. Mobile versus desktop traffic, US and global views (source: Perficient)
+
+This does not mean that desktop search has become unimportant; indeed, it delivers the most total time on site (also known as "dwell time") from visitors in aggregate, and
+
+nearly the same number of page views as mobile devices. Figure 1-19, also from the Perficient study, shows the aggregated (across all visitors) total time on site for desktop versus mobile users.
+
+Figure 1-19. Mobile versus desktop aggregate time on site, US and global views (source: Perficient)
+
+Google has long been aware of the growing importance of mobile devices, and first announced an algorithm update to focus on these devices in April 2015. This announcement was dubbed "Mobilegeddon" by the industry; many expected the update to cause a dramatic upheaval of the search landscape. In reality, it's almost never going to be in Google's interests to completely disrupt the existing search results
+
+in a dramatic fashion because, as we discussed earlier in this chapter, user satisfaction with Google has stayed at roughly the 80% level every year since 2002. This is reflected in how Google handled its switch to mobile-first indexing, with the initial announcement in November 2016 stating:
+Today, most people are searching on Google using a mobile device. However, our ranking systems still typically look at the desktop version of a page's content to evaluate its relevance to the user. This can cause issues when the mobile page has less content than the desktop page because our algorithms are not evaluating the actual page that is seen by a mobile searcher.
+Nearly everyone in the industry expected this switch to unfold far more quickly than it did. The reason that it didn't is that Google has to perform extensive amounts of testing on any change it makes to how it indexes and ranks content in order to minimize unintended negative impacts on search results. Due to the scale of search, this is a highly involved and cumbersome process.
+It was not until March 2020-over three years later-that Google announced a target date of September 2020 to make to mobile-first indexing universal. Making such a change is incredibly complex, however, and in November 2022 Google had still not 100% switched over. Nonetheless, the great majority of sites are indexed mobile-first. Unless your site has unusually difficult issues, it is likely already being indexed that way. From an SEO perspective, this means that Google crawls the mobile version of your site and analyzes its structure and content to determine the types of queries for which the site is relevant. This means that the majority of your SEO focus needs to be on the mobile version of your site.
+The fact that most visitors to your site are going to come from mobile devices is of critical importance. Among other things, it means that website design should start with mobile functionality, design, and layout. Any other approach is likely to result in a mobile site that is not as optimal as it could be. It also means that for most queries, you should be studying the structure and format of the mobile search results from Google. Figure 1-20 shows sample search results for the query digital cameras.
+In the first three screens of results on mobile devices, the ranking opportunities are in Google Shopping, People Also Ask boxes, and local search. A core part of your SEO strategy is to develop an understanding of the search landscape at this level of detail, as it can directly impact the search terms you choose to target.
+Targeting informational queries is quite different, as shown in Figure 1-21. Here you still see Google Shopping at the top of the results, but the next two screens are filled with access to informational content. As a result, the nature of the ranking opportuni- ties is not the same.
+
+
+Figure 1-20. Mobile SERPs for the query "digital cameras"
+
+Figure 1-21. Mobile SERPs for the query "history of prague"
+
+More on the Makeup of SERPs
+In 2019, Perficient published a comprehensive study by coauthor Eric Enge of how Google's search features-any content that falls outside the basic list of links-impact click-through rate (CTR), based on data for both desktop and mobile searches, as well as for branded and unbranded searches. Figure 1-22 shows the average CTR (percent- age of clicks received) by Google SERP position for both branded and nonbranded queries. As you can see, the disparity is significant.
+
+Figure 1-22. Search results CTR by ranking position
+
+Google search results are rich in many different kinds of search features. Figure 1-23 shows the frequency of different search features within the Google SERPs as of December 2019.
+
+
+Figure 1-23. Popularity of search features
+
+Each of these features creates different opportunities for placement in the search results and impacts the potential CTR you might experience. The reason that CTR is impacted is that users respond to different visual elements and their eyes get drawn to images and parts of the page that look different.
+Nearly two decades ago, research firms Enquiro, EyeTools, and Did-It conducted heat map testing with search engine users that produced fascinating results related to what users see and focus on when engaged in search activity. Figure 1-24 depicts a heat map showing a test performed on Google; the graphic indicates that users spent the most amount of time focusing their eyes in the upper-left area, where shading is the darkest. This has historically been referred to in search marketing as the "Golden Triangle." Note that while this research was done many years ago, it still teaches us about how users react to search results.
+
+
+Figure 1-24. Eye-tracking results, 2005
+
+That said, the search landscape has changed dramatically since 2005 and has become increasingly more complex, evolving toward results that are media-rich and mobile- centric. As a result, the appearance of the search results is nowhere near as consistent as it used to be, which causes users to have a much less consistent approach to how their eyes scan the SERPs. As shown in Figure 1-25, more recent research performed by Nielsen Norman Group shows that users follow a pinball-like path through the page.
+
+
+Figure 1-25. How users view search results today (source: Nielsen Norman Group)
+
+Even though richer content sprinkled throughout search results pages has altered users' eye-tracking and click patterns, the general dynamic of users viewing and click- ing upon listings at the top of search results most frequently, with each subsequent listing receiving less attention and fewer clicks, has been supported by multiple studies over time.
+These types of studies illustrate the importance of the layout of the search engine results pages. And, as the eye-tracking research demonstrates, as search results con- tinue to evolve, users' search and engagement patterns will follow suit. There will be more items on the page for searchers to focus on, more ways for searchers to remember and access the search listings, and more interactive, location-based delivery methods and results layouts-which will continue to change as search environments and platforms continue to evolve.
+NOTE
+Over the past few years, Google has introduced "continuous scroll" across mobile and desktop search, where listings are no longer limited to 10 or so per page, but instead more listings are loaded as one scrolls downward. It is not clear as yet what impact this change has had upon searcher behavior.
+
+
+The Role of AI and Machine Learning
+By now you've got the idea that user behavior is highly complex, and the challenge of meeting users' varied needs with a search engine is enormous. As the seoClarity data in Figure 1-2 showed, nearly 80% of all search queries consist of 4 words or fewer. These short phrases are all that a search engine gets in order to determine what results to return in the SERPs. In addition, March 2021 data from SEO tool provider Ahrefs shows that nearly 95% of all search queries are searched on 10 times per month or fewer. That does not provide search engines with a lot of prior history in order to model what the user wants.
+Google deploys a large array of resources to try to meet these challenges, including a growing number of machine learning (ML) algorithms such as RankBrain, BERT, SpamBrain, and MUM (we'll talk more about some of these in later chapters). You can expect to see Google continuing to roll out new ML algorithms-used to supplement the human-generated algorithms that it has developed over the course of decades, which are also undergoing continuous improvements-on an ongoing basis. This brings some unique challenges, as the nature of how these algorithms work is opaque even to those who create them. As a result, testing them and validating that they work as expected is incredibly complex. We'll return to many of these topics later in the book.
+
+Using Generative AI for Content Generation
+In late 2022, OpenAI released a generative AI model called ChatGPT. ChatGPT quickly drew major media and industry attention because of its ability to provide detailed natural language responses to relatively complex queries. Soon after, both Microsoft and Google announced the release of new conversational AI services. Bing Chat, which leverages ChatGPT as its underlying technology, was released in February 2023, and Google launched its generative AI solution, called Bard, in March 2023. At around the same time OpenAI updated the GPT-3 platform (the underlying engine that drives ChatGPT) to GPT-4, resulting in significant improvements in the quality of ChatGPT results. ChatGPT can respond to queries such as:
+
+• Write a 600-word article on the life of Albert Einstein.
+• Create a detailed outline for an article on quantum mechanics.
+• Suggest titles for eight articles on the American Depression.
+• Read the following content and provide five potential title tags (then append the content to the prompt).
+• Create the Schema.org markup required for the following content (then append the content to the prompt).
+
+• Debug this block of Python code (then append the Python code to the prompt).
+• Create a new Python script to do X (where X is a description of the task).
+
+An initial review of the output for queries like these shows impressive results (we'll show some examples in Chapter 2, where we discuss generative AI further). We'll talk more about global concerns about the future of this technology in Chapters 2 and 15, but some of the additional issues specific to ChatGPT's (and Bing Chat's and Bard's) ability to help you create your own content are summarized here:
+
+• Prone to including overtly incorrect information in its responses
+• Prone to showing bias (towards ethnicity, gender, religion, nationality, and other areas)
+• Frequently omits information that may be considered materially important in a response to the query
+• Doesn't provide insights
+• Bias toward being neutral (when you may want to take a position)
+
+In March 2023, coauthor Eric Enge did a study designed to see which of the generative AI solutions performed the best. ChatGPT scored the highest for responses that were free of overt inaccuracies, with a score of 100% accuracy across tested queries 81.5% of the time. Figure 1-26 shows more detail on these results.
+However, a separate test of 105 different queries exposed various limitations with types of queries that ChatGPT doesn't handle well, such as:
+
+
+• Product pricing
+• Directions
+• Weather (and other real-time topics)
+• News
+• 
+Sports scores
+• Your Money or Your Life (YMYL) topics
+
+This study also showed that Bing Chat and Google Bard have significant problems with accuracy and completeness too, but these platforms don't share the problems with other types of content (such as product pricing, directions, YMYL topics, etc.).
+
+
+Figure 1-26. Generative AI study results
+
+Despite these concerns, ChatGPT, Bing Chat, and Bard represent a huge step forward in language generation, and their capabilities are impressive. As mentioned at the beginning of this section, generative AI solutions can already be used to provide responses to a huge range of queries, and as these algorithms continue to be improved, their use will only grow. In recognition of this, Google has updated its guidance on using AI for content generation. The blog post "Google Search's Guidance About AI-Generated Content" includes a section called "How automation can create helpful content" that acknowledges that AI has been used to help generate sports scores, weather forecasts, and transcripts, and provides other guidance on when it's OK to use AI to generate content.
+As these algorithms evolve, AI will increasingly be able to produce better answers and higher-quality content. We therefore encourage you to experiment with AI, but to be careful to not get too far out in front of its capabilities. You still need to have your own subject matter experts owning the responsibility for all of your content (no matter how it's initially generated) and your own brand voice, positioning, and priorities.
+
+SEO as a Career
+The authors of this book have been in the SEO industry for a long time and have founded and sold successful SEO consultancy businesses. In the modern web-first world, though, it has become more common for companies to have one or more full-time SEO employees, or at least employees whose responsibilities include SEO.
+
+SEO does not align perfectly with any traditional business divisions or departments, but since its primary goal is to increase conversions (from visitors into customers, clients, list subscribers, and so on), it is nominally within the realm of marketing. You don't need to have a strong background in marketing to succeed in SEO; however, you must be able to communicate well with designers, product managers, and marketing managers. They will explain the organization's goals and how their projects contribute to them, and you will inform them of changes that must be made to enhance the site's effectiveness.
+Similarly, while the World Wide Web is inherently technical in nature, you don't need to be a software engineer or system administrator in order to be an effective SEO. There are some technological concepts that you must understand at a high level, such as the fact that web pages are files stored on web servers or are dynamically generated by web applications and are rendered in web browsers and (hopefully!) cataloged by search engines. You must be able to communicate effectively with system adminis- trators, web developers, IT managers, and database administrators so that low-level technical issues can be resolved.
+Optimizing for search engines also means optimizing for the people who visit your site; your pages must appeal to visitors without sacrificing search engine friendliness. You don't have to be a web designer or UI engineer, but you do need to be able to help people in those roles to understand the impact that their decisions may have on search traffic, links from other sites, and conversion rates. It is often the case that some piece of web technology is nice from a user perspective, but unintentionally hinders or blocks search engines; conversely, if you design a site only with search engines in mind, then visitors won't find it very appealing.
+Lastly, you will probably (or eventually) need to have some skill in dealing with decision-makers. A successful SEO will have a great deal of organizational influence without needing to have direct control over site design or web hosting. Depending on your role and the company or client you're working for, you may have to collaborate with several decision-makers, such as the business owner, CEO, VP of marketing, director of engineering, or a product manager or IT manager. Some of these people may view SEO as a one-off enhancement, like a rebranding or a style refresh. Regard- less of your role, your first task on any project is to make it clear that SEO is a process, not an event; it requires a long-term commitment to monitoring a site's search rankings and indexing, and regular reviews of keyword lists and marketing plans.
+If your boss or client is not versed in SEO best practices, they may expect unrealistic (immediate) results. You must convince them that traffic grows like a healthy child- gradually most of the time, but occasionally in spurts-and will be the result of an accumulation of incremental improvements to various projects and services associated with the website. Since it's rare for those to all be under one person's control, the
+
+better you are at integrating with existing business projects, product development processes, and budget planning sessions, the more success you'll have as a professional SEO. There is more information on this topic in Chapter 4.
+
+Supplemental Skills
+While not strictly required, SEOs will greatly benefit from developing their expertise on the topics listed in this section. The Art of SEO lightly covers them to varying degrees, but a deep dive on any one of them is beyond the scope of this book, so we've included some suggestions for further study:
+Systems theory
+Systems theory is a philosophical approach to analyzing organized structures (sys- tems); it's at the heart of creative problem solving in any field, not just SEO. The internet is a complex system composed of many interconnected components. By developing your systems thinking skills, you'll gain a much better understanding of the impact of any changes you make to your site or server. The Systems Thinker is an excellent resource for learning more.
+Data analysis
+While the tools and services that SEOs use to analyze search traffic usually have excellent charts, graphs, tables, and dashboards, you may want to be able to format and filter the raw data in a unique way. Data analysis skills allow you to retrieve useful data and format it in such a way that you are able to discover valuable insights about your web pages and visitors. It also helps to be proficient with spreadsheets (pivot tables and so forth), as SEOs spend a lot of time working with large keyword lists in spreadsheet applications; the Excel Easy website is a good place to get started.
+HTML, CSS, and XML
+The more you know about markup languages and stylesheets, the better enabled you are to optimize web content on your own. Search engines can be stymied by badly formed or missing HTML elements, and you can potentially improve your rankings simply by ensuring that each page has proper tags and attributes. Also, Google is increasingly relying on structured data markup for its services and special features. W3Schools is a great resource for learning about HTML, CSS, and XML.
+JavaScript
+Many modern websites are dynamically generated for each visitor, based on logic written in JavaScript and data stored in JSON or XML format. Unfortunately, search engines have only a limited ability to execute JavaScript and often have difficulty indexing dynamic web pages. Most of the time you'll have to work with a full-time web developer to address these issues, but if you have some experience with JavaScript, you'll be better equipped to troubleshoot and diagnose them quickly. You can find tutorials, reference materials, and other resources at W3Schools.
+
+
+
+Conclusion
+Search is an integral part of the fabric of global society. The way people learn, work, share, play, shop, research, socialize, and interact has changed forever, and organiza- tions, causes, brands, charities, individuals-almost all entities-need to view their internet presence as a core priority. Leveraging search engines and search functionality within all platforms is essential to generate exposure and facilitate engagement. This book will cover in detail how search, and therefore SEO, is at the center of the web ecosystem, and thus how it can play a major role in your success within the ever-evolving digital economy.
+
+C H A P T E R T W O
+
+
+
+
+Generative AI and Search
+Search engines, recommendation engines, and related systems have been actively using artificial intelligence algorithms for decades, but the landscape changed dramat- ically with OpenAI's release of ChatGPT in November 2022. ChatGPT opened up the possibility of an entirely different way for humans to interact with machines to get answers to questions. This type of AI technology is referred to as generative AI. This chapter will explore both how search engines are applying this technology and what opportunities exist for organizations to use generative AI as part of their SEO programs.
+The first few sections provide some basic background on the current AI landscape to provide some context for the technology and help clarify its broader implications. If you'd like to jump ahead to applications, you can skip to "Generative AI Solutions" on page 39.
+
+A Brief Overview of Artificial Intelligence
+The concept of AI algorithms was originally formulated in the 1950s, with Alan Turing's "Computing Machinery and Intelligence", considered to be a cornerstone paper in the AI field. The term artificial intelligence was coined by computer scientists John McCarthy, Marvin Minsky, Nathaniel Rochester, and Claude E. Shannon, with early AI research and development activity taking place at the Massachusetts Institute of Technology and the University of Oxford. Most of what we see today in terms of AI consists of neural networks and large language models (LLMs) based on very large neural networks with many layers, referred to as deep learning models.
+Neural networks and deep learning models are like enormously complex equations with many parameters. These models can be trained to provide the desired output by using training data to tune the weights assigned to each parameter (supervised learning) or by running them against the raw data and having them learn the patterns in the data themselves (unsupervised learning).
+
+These types of algorithms are designed to create tools that are very good at analytical tasks. To understand what this means, it's useful to step back and consider what makes up human intelligence. One model, called the triarchic theory of intelligence, was proposed by Robert J. Sternberg. This theory suggests that there are three types of intelligence:
+Componential intelligence
+Associated with being gifted at analytical tasks. This is the type of intelligence that is most often tested.
+Experiential intelligence
+Associated with the ability to be creative and flexible in one's thinking.
+Practical intelligence
+Associated with the ability to apply a given idea or thought process to the context of a situation (i.e., does it make sense given what we're trying to accomplish?).
+Currently, AI algorithms focus primarily on componential (or analytical) intelligence. We are also beginning to see some offerings, like AutoGPT, that can be used to execute complex tasks with many steps that may represent the beginning of some level of practical intelligence.
+Where these algorithms may go and how fast they will progress is not clear at this time, but their development does give rise to significant risks that need to be managed. We will delve more into this topic in "Generative AI Challenges" on page 61.
+
+More About Large Language Models
+LLMs are essentially very large neural networks trained to understand language. These networks may have billions of parameters or more (OpenAI's GPT-3 consists of 175 billion parameters; the size of the GPT-4 network has not been confirmed, but indus- try speculation suggests that it has more than 100 trillion parameters). They're also incredibly complicated and expensive to train: OpenAI's CEO Sam Altman has said that training GPT-4 cost more than $100 million. These vastly complex networks are required to maximize the models' ability to understand language to a high degree.
+Deep learning models learn language based on the concept of completion models. As an example, consider the following three-word phrase and fill in the blank:
+
+"See Spot     ."
+
+You may have decided that the third word should be "run"-it's very likely that a large number of people will pick that due to "see Spot run" being a phrase made famous in a highly popular set of children's books (plus a more recent, not quite as successful movie). Whatever word you chose, you likely did so because you considered it to
+
+have the highest probability of being the most popular answer. This is essentially the approach that LLMs use to learning language, but at a much larger scale.
+Another key innovation that makes LLMs possible is the concept of attention models. Since the training of LLMs involves a great deal of expense and time (training the full model can take years), having to update the entire model is a forbidding task. It's also very difficult to train a model that has to account for all possible scenarios across all languages.
+The advent of attention models made all of this much more manageable because it enabled the training to happen in much narrower contexts, a piece at a time. For example, the model can be trained on a specific topic area, such as all the language related to kayaking, or all the language related to playing golf.
+Such innovations, and the sheer scale of these models, are what have made many of the recent advances possible. In addition, adjusting for specific issues without having to retrain the whole model becomes feasible. We'll discuss this more in the section on generative AI challenges.
+In their current form, LLMs may be reaching the limits of their potential capabilities. In fact, Sam Altman predicted that "the age of giant AI models is already over" and that new ideas will be required to advance AI further from where it is now.
+
+Generative AI Solutions
+OpenAI was the first to offer a generative AI tool with its release of ChatGPT in November 2022. Market response to this release was immediate: ChatGPT was the fastest application to reach one hundred million users in history, hitting this milestone in just two months.
+Inherent in its exponential growth was the compelling value proposition provided: ChatGPT enables users to converse with it in a meaningful way. This includes the option to pose complex multipart questions (prompts) and have it respond with complex, long-form responses. In addition to this question-and-answer functionality, ChatGPT has many other capabilities that include (but are not limited to):
+
+
+• Writing and debugging code
+• Creating Schema.org markup
+• Writing Excel macros
+• Creating article outlines
+• Writing drafts of content
+• 
+Explaining complex topics
+• Writing music
+• Translating text
+• Summarizing content
+
+These capabilities are not yet available in traditional search engines, yet they are in high demand by users.
+
+WARNING
+All generative AI solutions are prone to making mistakes. As a result, any and all outputs they provide should be validated (and corrected) before you rely on them. As a cautionary example, CNET was quick to try publishing content created by an AI tool, but after examining 71 of the long-form articles the tool produced, it found that 41 of them contained mistakes. Coauthor Eric Enge also conducted a small study of 30 queries with ChatGPT and found that 20% of the content produced contained overtly incorrect information and over 50% of the content had material omissions. He also tested two versions of Bing Chat, which performed similarly to ChatGPT, and Google Bard, which performed somewhat worse.
+
+
+Bing announced its solution, which is based on ChatGPT and called Bing Chat, in February 2023. This created a great deal of excitement due to its integration into the Bing search engine. As an example, if you search on how do you make loc lac (a popular Cambodian dish), you get a standard search result, as shown in Figure 2-1.
+
+Figure 2-1. Bing search result
+
+However, under the search query you will see an option called CHAT. Clicking that brings you into the Bing Chat experience, as shown in Figure 2-2.
+
+
+Figure 2-2. Bing Chat search result
+
+This integration offers an elegant way to switch between the traditional search experi- ence and Bing Chat. Eric Enge did an interview with Bing's Fabrice Canel where they discussed the thinking that went into how this integration should work. One of the key insights was that searchers are typically in one of two modes. Figure 2-3 shows those two modes and some sample queries.
+
+Figure 2-3. Bing's theory on two modes of search
+
+Bing positions traditional search engine models as being built to handle queries where the user knows exactly what they want. Examples of these types of queries are nav- igational queries and straightforward informational queries. However, many search
+
+sessions involve multiple query iterations, where the user works through a process to finally get what they want. We shared examples of such complex sessions in Chap- ter 1, in Figures 1-11 and 1-13.
+The interview with Canel also sheds light on how the underlying infrastructure for the Bing Chat integration is structured. Figure 2-4 shows what Bing calls the Prometheus model.
+
+Figure 2-4. Bing's Prometheus model
+
+In this model, the Bing Orchestrator manages much of the interaction between Bing Search and Bing Chat. However, the real innovation is Bing's backend, powered by the LLM. Here is what Canel had to say about it:
+When we had a breakthrough in large language models (LLMs), much like other LLMs, it was trained with data through a given point in time, so we thought that we could make the user experience richer, more relevant, and more accurate by combining it with the power of Bing's back-end.
+To be more concrete, we developed a proprietary technology called Prometheus, a first-of-its-kind AI model that combines the fresh and comprehensive Bing index, ranking, and answers results with the creative reasoning capabilities of most-advanced models.
+Bing Chat benefits because the Prometheus model can use data from the Bing index to fact-check responses it generates and reduce inaccuracies. Bing refers to this as grounding.
+
+NOTE
+ChatGPT did not have this ability at launch, but a Bing Search integration was added through a deal with Microsoft announced in May 2023.
+
+
+One other important aspect to note about Bing's implementation is that, unlike ChatGPT, Bing Chat provides attribution to all the sources used in generating an answer. Here is Canel's commentary on that:
+Our goal is to satisfy our Bing users and drive more traffic to publishers in this new world of search. It is a top goal for us, and we measure success partly by how much traffic we send from the new Bing/Edge.
+Unsurprisingly, Google was also quick to respond to the release of ChatGPT. In Febru- ary 2023, Google CEO Sundar Pichai published a post titled "An Important Next Step on Our AI Journey" that announced the release of Google's own ChatGPT-like prod- uct, called Bard. It quickly became evident that Google's Bard, released the following month, was not as capable as ChatGPT or Bing Chat, but it was a foot in the game. Unlike Bing Chat, Bard was launched fully separately from the search experience. It also fails to provide much in the way of attribution to the third-party websites that were the sources of information used in generating its responses, an aspect that many were quick to criticize.
+Google took the next step at its annual I/O conference on May 10, 2023, announcing plans for what it calls the Search Generative Experience (SGE). This is Google's first step toward integrating generative AI directly into its search results. Per Google's announcement, SGE will enable users to:
+
+• Ask "entirely new types of questions that you never thought Search could answer."
+• Quickly get the lay of the land on a topic, with links to relevant results to explore further.
+• Ask follow-up questions naturally in a new conversational mode.
+• Get more done easily, like generating creative ideas and drafts right in Search.
+
+In principle, this sounds quite similar to the higher-level goals expressed by Bing, but with some specific Google approaches to it. Google also provided a preview of what this experience might look like, as shown in Figure 2-5.
+
+
+Figure 2-5. An early preview of generative AI content in Google SERPs
+
+Note the disclaimer at the top left that says, "Generative AI is experimental." This caution shows in other aspects of Google's announcement as well, and the potential limitations were discussed in more depth in a PDF that Google released following the announcement. This document also discusses several other aspects of Google's approach to SGE. Some of the additional key points include:
+
+• SGE is separate from Bard. They share a common foundation, but Bard is designed to be a standalone tool, and SGE is not. For that reason, there may be some differences between them.
+• SGE is fully integrated with other experiences, such as shopping and local search.
+• Creative use of SGE is encouraged, but with a disclaimer: "While SGE is adept at both informational and creative applications, users will notice constraints on creative uses to start, as we've intentionally placed a greater emphasis on safety and quality."
+• Google is planning to use color to help differentiate aspects of the AI-powered results, noting that this color may change based on journey types and user intent.
+• Google plans to use human evaluators to review results and accelerate the process of eliminating errors and weaknesses, noting that they will focus on areas more susceptible to quality risks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

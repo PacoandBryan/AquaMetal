@@ -1,26 +1,331 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+@theme {
+  /* Aqua Metal Palette */
+  --color-background: #000814;
+  /* Ink Black */
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+  --color-surface: rgba(0, 29, 61, 0.6);
+  /* Prussian Blue translucent */
+  --color-surface-hover: rgba(0, 53, 102, 0.7);
+  /* Regal Navy translucent */
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  --color-foreground: #F5F5F7;
+  /* Stainless Steel White */
+  --color-foreground-muted: #A1A1A1;
+  /* Metallic gray */
+
+  --color-border: rgba(255, 195, 0, 0.2);
+  /* Subtle Yellow border */
+  --color-border-hover: rgba(255, 195, 0, 0.5);
+
+  --color-accent-primary: #ffc300;
+  /* School Bus Yellow */
+  --color-accent-secondary: #ffd60a;
+  /* Gold */
+  --color-accent-glow: rgba(255, 195, 0, 0.4);
+
+  --color-card-bg: rgba(0, 8, 20, 0.85);
+  /* Dark Ink Glass */
+
+  /* Palette shorthands */
+  --color-ink-black: #000814;
+  --color-prussian-blue: #001d3d;
+  --color-regal-navy: #003566;
+  --color-school-bus-yellow: #ffc300;
+  --color-gold: #ffd60a;
+
+  /* Fonts */
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-display: 'Outfit', system-ui, -apple-system, sans-serif;
+
+  /* Animations */
+  --animate-fade-in: fadeIn 1s ease-out forwards;
+  --animate-slide-up: slideUp 1s cubic-bezier(0.2, 0.8, 0.2, 1) forwards;
+  --animate-glow-pulse: glowPulse 3s ease-in-out infinite;
+  --animate-blob: blob 7s infinite;
+  --animate-marquee: marquee 30s linear infinite;
+  --animate-marquee2: marquee2 30s linear infinite;
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+
+    to {
+      opacity: 1;
+    }
+  }
+
+  @keyframes slideUp {
+    from {
+      opacity: 0;
+      transform: translateY(30px);
+    }
+
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes glowPulse {
+
+    0%,
+    100% {
+      box-shadow: 0 0 15px -3px var(--color-accent-glow);
+    }
+
+    50% {
+      box-shadow: 0 0 30px 5px var(--color-accent-glow);
+    }
+  }
+
+  @keyframes blob {
+    0% {
+      transform: translate(0px, 0px) scale(1);
+    }
+
+    33% {
+      transform: translate(30px, -50px) scale(1.1);
+    }
+
+    66% {
+      transform: translate(-20px, 20px) scale(0.9);
+    }
+
+    100% {
+      transform: translate(0px, 0px) scale(1);
+    }
+  }
+
+  @keyframes floatParticle {
+    0% {
+      transform: translateY(0px) translateX(0px);
+      opacity: 0.06;
+    }
+
+    25% {
+      transform: translateY(-18px) translateX(8px);
+      opacity: 0.09;
+    }
+
+    50% {
+      transform: translateY(-8px) translateX(-6px);
+      opacity: 0.05;
+    }
+
+    75% {
+      transform: translateY(-22px) translateX(4px);
+      opacity: 0.08;
+    }
+
+    100% {
+      transform: translateY(0px) translateX(0px);
+      opacity: 0.06;
+    }
+  }
+
+  @keyframes marquee {
+    0% {
+      transform: translateX(0%);
+    }
+
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+
+  @keyframes marquee2 {
+    0% {
+      transform: translateX(50%);
+    }
+
+    100% {
+      transform: translateX(0%);
+    }
+  }
+
+  @keyframes whatsappBounce {
+
+    0%,
+    100% {
+      transform: translateY(0) scale(1);
+    }
+
+    50% {
+      transform: translateY(-6px) scale(1.05);
+    }
+  }
+
+  @keyframes whatsappPulse {
+    0% {
+      box-shadow: 0 0 0 0 rgba(37, 211, 102, 0.5);
+    }
+
+    70% {
+      box-shadow: 0 0 0 16px rgba(37, 211, 102, 0);
+    }
+
+    100% {
+      box-shadow: 0 0 0 0 rgba(37, 211, 102, 0);
+    }
   }
 }
 
+:root {
+  --background: var(--color-background);
+  --foreground: var(--color-foreground);
+
+  /* ── Fluid Typography (clamp: min @ 320px → max @ 1440px) ── */
+  --text-xs: clamp(0.65rem, 0.6rem + 0.25vw, 0.75rem);
+  --text-sm: clamp(0.8rem, 0.75rem + 0.25vw, 0.875rem);
+  --text-base: clamp(0.9rem, 0.85rem + 0.3vw, 1rem);
+  --text-lg: clamp(1rem, 0.92rem + 0.4vw, 1.125rem);
+  --text-xl: clamp(1.1rem, 1rem + 0.5vw, 1.25rem);
+  --text-2xl: clamp(1.25rem, 1.1rem + 0.7vw, 1.5rem);
+  --text-3xl: clamp(1.5rem, 1.3rem + 1vw, 1.875rem);
+  --text-4xl: clamp(1.75rem, 1.5rem + 1.3vw, 2.25rem);
+  --text-5xl: clamp(2rem, 1.6rem + 2vw, 3rem);
+  --text-6xl: clamp(2.5rem, 2rem + 2.5vw, 3.75rem);
+  --text-7xl: clamp(3rem, 2.2rem + 4vw, 4.5rem);
+  --text-8xl: clamp(3.5rem, 2.5rem + 5vw, 6rem);
+
+  /* ── Fluid Spacing ── */
+  --space-section-y: clamp(4rem, 3rem + 4vw, 8rem);
+  --space-container-x: clamp(1rem, 4vw, 2.5rem);
+}
+
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: var(--color-background);
+  color: var(--color-foreground);
+  font-family: var(--font-sans);
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: var(--text-base);
+}
+
+/* ── Global Container Cap (prevents stretching on ultrawide) ── */
+.container {
+  max-width: min(100%, 1400px) !important;
+  padding-left: var(--space-container-x);
+  padding-right: var(--space-container-x);
+}
+
+/* ── Global safe-area support ── */
+@supports (padding: max(0px)) {
+  .safe-area-bottom {
+    padding-bottom: max(1.5rem, env(safe-area-inset-bottom));
+  }
+
+  .safe-area-top {
+    padding-top: max(1.5rem, env(safe-area-inset-top));
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-display);
+  letter-spacing: -0.025em;
+  font-weight: 700;
+  color: #ffffff;
+  /* Prevent text overflow on small screens */
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+/* Extra-small phone guard (< 380px) */
+@media (max-width: 380px) {
+  .container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+/* Landscape phone guard */
+@media (orientation: landscape) and (max-height: 500px) {
+  .hero-min-h {
+    min-height: 550px !important;
+  }
+
+  .landscape-compact {
+    padding-top: 2rem !important;
+    padding-bottom: 2rem !important;
+  }
+}
+
+/* Premium Utilities */
+.glass-panel {
+  background: var(--color-card-bg);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--color-border);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.36);
+}
+
+.glass-nav {
+  background: rgba(0, 8, 20, 0.85);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.text-gradient {
+  background: linear-gradient(135deg, #ffffff 0%, #94a3b8 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.text-gradient-accent {
+  background: linear-gradient(135deg, var(--color-accent-primary) 0%, var(--color-accent-secondary) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-shadow: 0 0 30px var(--color-accent-glow);
+}
+
+/* Marquee */
+.animate-marquee {
+  animation: marquee var(--marquee-duration, 30s) linear infinite;
+}
+
+.animate-marquee2 {
+  animation: marquee2 var(--marquee-duration, 30s) linear infinite;
+}
+
+.animate-marquee-paused {
+  animation-play-state: paused;
+}
+
+/* WhatsApp bubble animations */
+.whatsapp-bounce {
+  animation: whatsappBounce 3s ease-in-out infinite;
+}
+
+.whatsapp-pulse {
+  animation: whatsappPulse 2s ease-out infinite;
+}
+
+/* Custom Scrollbar - Dark & Minimal */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #000814;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #001d3d;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-accent-primary);
 }
