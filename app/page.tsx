@@ -8,6 +8,8 @@ import Link from "next/link";
 import Image from "next/image";
 import MotionWrapper, { FadeIn } from "@/components/MotionWrapper";
 import { motion, useMotionValue, useTransform, useSpring } from "framer-motion";
+// Deployment refresh - 2026-02-21
+import { Metadata } from "next";
 import { useRef } from "react";
 
 const services = [
