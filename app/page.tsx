@@ -12,7 +12,7 @@ import { useRef } from "react";
 
 const services = [
     { id: "torneado-cnc", label: "Torneado CNC", tag: "±0.005mm", color: "#ffc300" },
-    { id: "maquinado-suizo", label: "Maquinado Suizo", tag: "7 Ejes", color: "#ffd60a" },
+    { id: "tornos-automaticos", label: "Tornos Automáticos", tag: "Index/Traub", color: "#ffd60a" },
     { id: "centros-maquinado", label: "Centros de Maquinado", tag: "3-5 Ejes", color: "#ffc300" },
     { id: "inspeccion-calidad", label: "Inspección de Calidad", tag: "ISO 9001", color: "#ffd60a" },
     { id: "diseno-desarrollo", label: "Diseño y DFM", tag: "Consulting", color: "#ffc300" },
@@ -163,17 +163,17 @@ export default function Home() {
                             </div>
                         </TiltCard>
 
-                        {/* ── ANIMATION 4: 3D Tilt Card 2 ── */}
+                        {/* ── Tornos Automáticos Card ── */}
                         <TiltCard className="group relative h-[40vh] min-h-[320px] max-h-[540px] rounded-2xl overflow-hidden border border-white/5 bg-[#001d3d]">
                             <div className="absolute inset-0 bg-gray-900/50 z-10 group-hover:bg-gray-900/30 transition-colors" />
-                            <Image src="/images/img_8882.jpeg" alt="Swiss Lathe" fill className="object-cover opacity-60 group-hover:scale-105 transition-transform duration-700" />
+                            <Image src="/images/img_8882.jpeg" alt="Tornos Automáticos" fill className="object-cover opacity-60 group-hover:scale-105 transition-transform duration-700" />
                             <div className="absolute bottom-0 left-0 w-full p-8 bg-gradient-to-t from-black via-black/80 to-transparent z-20">
-                                <h3 className="text-2xl font-bold text-white mb-2 font-display">Maquinado Suizo</h3>
-                                <p className="text-gray-400 text-sm mb-6">Geometrías complejas en una sola configuración.</p>
+                                <h3 className="text-2xl font-bold text-white mb-2 font-display">Tornos Automáticos</h3>
+                                <p className="text-gray-400 text-sm mb-6">Producción de alta velocidad para componentes de precisión.</p>
                                 <div className="grid grid-cols-2 gap-4 border-t border-white/10 pt-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300 transform translate-y-4 group-hover:translate-y-0">
                                     <div>
-                                        <div className="text-[10px] text-accent-primary uppercase tracking-wider font-mono">Ejes</div>
-                                        <div className="text-white font-mono">7-Ejes</div>
+                                        <div className="text-[10px] text-accent-primary uppercase tracking-wider font-mono">Diámetro Máx</div>
+                                        <div className="text-white font-mono">42mm</div>
                                     </div>
                                     <div>
                                         <div className="text-[10px] text-accent-primary uppercase tracking-wider font-mono">Volumen</div>
@@ -224,8 +224,8 @@ export default function Home() {
                         <h2 className="text-3xl md:text-4xl font-bold font-display text-white mb-6">
                             <TextScramble text="Visión 2030" playOnMount delay={0.5} />
                         </h2>
-                        <p className="text-gray-400 max-w-2xl mx-auto mb-12">
-                            Liderando la transformación metal-mecánica nacional. Innovación, automatización y crecimiento sostenible.
+                        <p className="text-gray-400 max-w-3xl mx-auto mb-12">
+                            En 2030 seremos una empresa líder, a nivel nacional, de la industria metalmecánica impulsados por la mejora continua, compromiso, talento y experiencia de nuestros colaboradores, infraestructura sólida y finanzas sanas.
                         </p>
                     </FadeIn>
                 </div>

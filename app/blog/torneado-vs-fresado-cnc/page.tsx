@@ -150,7 +150,7 @@ export default function ArticleTorneadoVsFresado() {
                     <div className="grid md:grid-cols-2 gap-6">
                         {[
                             { slug: "que-es-maquinado-cnc", title: "¿Qué es el Maquinado CNC y Cómo Funciona?", cat: "Fundamentos" },
-                            { slug: "guia-maquinado-suizo", title: "Guía Completa del Maquinado Suizo", cat: "Procesos" },
+                            { slug: "tolerancias-maquinado-cnc", title: "Tolerancias de Maquinado CNC", cat: "Calidad" },
                         ].map((post) => (
                             <Link key={post.slug} href={`/blog/${post.slug}`} className="p-6 rounded-xl bg-white/5 border border-white/10 hover:border-accent-primary/40 transition-colors group">
                                 <span className="text-xs font-mono text-accent-primary uppercase tracking-wider mb-2 block">{post.cat}</span>

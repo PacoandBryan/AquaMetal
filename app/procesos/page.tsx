@@ -66,7 +66,7 @@ export default function ProcessesPage() {
                             </div>
                             <h3 className="text-xl font-bold text-white mb-4">Fabricación de Precisión</h3>
                             <p className="text-gray-400 leading-relaxed">
-                                Ejecución impecable en procesos de torneado, fresado y maquinado suizo, cumpliendo las tolerancias más estrictas.
+                                Ejecución impecable en procesos de torneado, fresado y maquinado automático, cumpliendo las tolerancias más estrictas.
                             </p>
                         </MotionWrapper>
 
@@ -123,20 +123,20 @@ export default function ProcessesPage() {
                                     </h3>
                                     <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                                         <div className="flex justify-between items-center bg-white/5 p-4 rounded-lg">
-                                            <span className="text-gray-300 font-mono">INDEX</span>
-                                            <span className="text-accent-primary font-bold text-sm">2 Unidades (42mm)</span>
+                                            <span className="text-gray-300 font-mono">INDEX ON</span>
+                                            <span className="text-accent-primary font-bold text-sm">3 Unidades (12mm)</span>
                                         </div>
                                         <div className="flex justify-between items-center bg-white/5 p-4 rounded-lg">
                                             <span className="text-gray-300 font-mono">TRAUB A25</span>
                                             <span className="text-accent-primary font-bold text-sm">10 Unidades (42mm)</span>
                                         </div>
                                         <div className="flex justify-between items-center bg-white/5 p-4 rounded-lg">
-                                            <span className="text-gray-300 font-mono">TRAUB</span>
-                                            <span className="text-accent-primary font-bold text-sm">1 Unidad (42mm)</span>
+                                            <span className="text-gray-300 font-mono">INDEX</span>
+                                            <span className="text-accent-primary font-bold text-sm">2 Unidades (42mm)</span>
                                         </div>
                                         <div className="flex justify-between items-center bg-white/5 p-4 rounded-lg">
-                                            <span className="text-gray-300 font-mono">INDEX ON</span>
-                                            <span className="text-accent-primary font-bold text-sm">3 Unidades (12mm)</span>
+                                            <span className="text-gray-300 font-mono">TRAUB</span>
+                                            <span className="text-accent-primary font-bold text-sm">1 Unidad (42mm)</span>
                                         </div>
                                     </div>
                                 </MotionWrapper>

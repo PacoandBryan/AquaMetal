@@ -15,7 +15,7 @@ export const metadata: Metadata = {
 };
 
 const faqs = [
-    { q: "¿Qué tolerancia estándar tiene el maquinado CNC?", a: "La tolerancia estándar en torneado CNC es ±0.025mm. Con equipos de alta precisión alcanzamos ±0.005mm. El maquinado suizo puede llegar a ±0.003mm en diámetros pequeños." },
+    { q: "¿Qué tolerancia estándar tiene el maquinado CNC?", a: "La tolerancia estándar en torneado CNC es ±0.025mm. Con equipos de alta precisión alcanzamos ±0.005mm." },
     { q: "¿Por qué las tolerancias ajustadas encarecen la pieza?", a: "Requieren herramientas más finas, velocidades de avance menores, mayor frecuencia de inspección y a veces operaciones adicionales de acabado. Todo eso impacta el costo por pieza." },
     { q: "¿Cómo especifico las tolerancias en mi plano?", a: "Usa ISO 2768 como base y coloca tolerancias estrictas solo donde la función lo exija. Comparte el plano con tu proveedor antes de aprobarlo —esa revisión puede ahorrarte costos significativos." },
 ];
@@ -75,7 +75,7 @@ export default function ArticleToleranciasMaquinadoCNC() {
                         <tbody className="divide-y divide-white/5">
                             {[
                                 ["Torneado CNC", "±0.025 mm", "±0.010 mm", "±0.005 mm"],
-                                ["Maquinado Suizo", "±0.010 mm", "±0.005 mm", "±0.003 mm"],
+
                                 ["Fresado CNC 3 ejes", "±0.050 mm", "±0.025 mm", "±0.010 mm"],
                                 ["Centro maquinado 5 ejes", "±0.025 mm", "±0.010 mm", "±0.005 mm"],
                                 ["Torno automático de levas", "±0.050 mm", "±0.025 mm", "±0.015 mm"],

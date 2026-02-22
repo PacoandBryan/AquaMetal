@@ -24,11 +24,11 @@ export const metadata: Metadata = {
     template: "%s | Aqua Metal",
   },
   description:
-    "Empresa mexicana de manufactura metal-mecánica con más de 20 años de experiencia. Torneado CNC, maquinado suizo y fresado de alta precisión. Certificación ISO 9001. Tolerancias de ±0.005mm.",
+    "Empresa mexicana de manufactura metal-mecánica con más de 25 años de experiencia. Torneado CNC de alta precisión, tornos automáticos y centros de maquinado. Certificación ISO 9001. Tolerancias de ±0.005mm.",
   keywords: [
     "maquinado CNC México",
     "torneado CNC",
-    "maquinado suizo",
+    "tornos automáticos",
     "manufactura de precisión",
     "ISO 9001 manufactura",
     "proveedor maquinado industrial",
@@ -48,13 +48,13 @@ export const metadata: Metadata = {
     siteName: "Aqua Metal",
     title: "Aqua Metal | Maquinado CNC de Precisión en México",
     description:
-      "Torneado CNC, maquinado suizo y manufactura de precisión para la industria en México. ISO 9001 · Tolerancias de ±0.005mm · +20 años de experiencia.",
+      "Torneado CNC, tornos automáticos y manufactura de precisión para la industria en México. ISO 9001 · Tolerancias de ±0.005mm · +25 años de experiencia.",
   },
   twitter: {
     card: "summary_large_image",
     title: "Aqua Metal | Maquinado CNC de Precisión en México",
     description:
-      "Torneado CNC, maquinado suizo y manufactura de precisión. ISO 9001 · +20 años.",
+      "Torneado CNC, tornos automáticos y manufactura de precisión. ISO 9001 · +25 años.",
   },
   alternates: {
     canonical: "https://www.aqua-metal.com",
@@ -71,7 +71,7 @@ const organizationSchema = {
       name: "Aqua Metal",
       url: "https://www.aqua-metal.com",
       description:
-        "Empresa mexicana de manufactura metal-mecánica. Especialistas en torneado CNC, maquinado suizo y fresado de precisión con certificación ISO 9001.",
+        "Empresa mexicana de manufactura metal-mecánica. Especialistas en torneado CNC, tornos automáticos y fresado de precisión con certificación ISO 9001.",
       foundingDate: "2003",
       address: {
         "@type": "PostalAddress",
@@ -103,9 +103,9 @@ const organizationSchema = {
             "@type": "Offer",
             itemOffered: {
               "@type": "Service",
-              name: "Maquinado Suizo (Swiss Lathe)",
+              name: "Tornos Automáticos",
               description:
-                "Geometrías complejas en una sola configuración. 7 ejes, alto volumen.",
+                "Producción masiva de alta eficiencia con tornos de levas automáticos. Capacidad hasta 42mm.",
             },
           },
           {

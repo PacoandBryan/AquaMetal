@@ -21,9 +21,9 @@ const curatedImages: WpMedia[] = [
     {
         id: 1,
         source_url: "/images/img_8882.jpeg",
-        slug: "maquinado-suizo",
-        title: { rendered: "Maquinado Suizo" },
-        alt_text: "Tornos de maquinado suizo en operación",
+        slug: "tornos-automaticos",
+        title: { rendered: "Tornos Automáticos" },
+        alt_text: "Tornos automáticos de levas en operación",
         media_type: "image",
         media_details: { width: 1920, height: 1080, sizes: { full: { source_url: "/images/img_8882.jpeg" } } },
         toLocalPath: "/images/img_8882.jpeg",

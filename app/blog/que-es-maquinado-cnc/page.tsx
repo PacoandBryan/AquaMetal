@@ -16,8 +16,8 @@ export const metadata: Metadata = {
 
 const faqs = [
     { q: "¿Qué es el maquinado CNC?", a: "El maquinado CNC (Control Numérico Computarizado) es un proceso donde herramientas de corte son controladas por computadora para fabricar piezas con alta precisión. Las instrucciones se programan en código G que la máquina ejecuta automáticamente." },
-    { q: "¿Cuáles son los tipos de maquinado CNC?", a: "Torneado CNC, fresado CNC, maquinado suizo, tornos automáticos de levas y centros de maquinado multiejes. Cada proceso tiene ventajas según la geometría y el volumen requerido." },
-    { q: "¿Qué tolerancias se logran con el maquinado CNC?", a: "Con equipos modernos alcanzamos ±0.005mm en torneado de precisión y ±0.003mm en maquinado suizo. Para producción estándar trabajamos en rangos de ±0.025mm." },
+    { q: "¿Cuáles son los tipos de maquinado CNC?", a: "Torneado CNC, fresado CNC, tornos automáticos de levas y centros de maquinado multiejes. Cada proceso tiene ventajas según la geometría y el volumen requerido." },
+    { q: "¿Qué tolerancias se logran con el maquinado CNC?", a: "Con equipos modernos alcanzamos ±0.005mm en torneado de precisión. Para producción estándar trabajamos en rangos de ±0.025mm." },
     { q: "¿Qué materiales se pueden maquinar con CNC?", a: "Aluminio, acero inoxidable, acero al carbón, cobre, latón, bronce y nylon. Cada material exige parámetros específicos que ajustamos con base en más de 20 años de experiencia." },
 ];
 
@@ -100,7 +100,7 @@ export default function ArticleQueEsMaquinadoCNC() {
                 <div className="grid md:grid-cols-2 gap-6 my-8">
                     {[
                         { title: "Torneado CNC", desc: "La pieza gira y la herramienta avanza. Nuestro proceso estrella para ejes, bujes y tornillos. Sin duda el más rápido para geometrías cilíndricas.", spec: "1–60mm · ±0.005mm" },
-                        { title: "Maquinado Suizo", desc: "La barra avanza por una guía mientras varias herramientas trabajan en simultáneo. Para piezas pequeñas con geometrías que serían imposibles en otro equipo.", spec: "1–32mm · Geometrías complejas" },
+                        { title: "Tornos Automáticos", desc: "Producción eficiente de piezas pequeñas con tornos de levas automáticos. Ideal para componentes de alta precisión y volúmenes masivos.", spec: "1–42mm · Alto volumen" },
                         { title: "Tornos Automáticos de Levas", desc: "Honestamente, cuando necesito millones de piezas sencillas al menor costo posible, estas máquinas no tienen competidor.", spec: "Hasta 42mm · Alto volumen" },
                         { title: "Centro de Maquinado CNC", desc: "La herramienta gira sobre múltiples ejes. Para piezas prismáticas con ranuras y cavidades que el torno no puede alcanzar.", spec: "Hasta 400×400mm" },
                     ].map((type) => (
@@ -189,7 +189,7 @@ export default function ArticleQueEsMaquinadoCNC() {
                     <div className="grid md:grid-cols-2 gap-6">
                         {[
                             { slug: "torneado-vs-fresado-cnc", title: "Torneado CNC vs Fresado CNC: ¿Cuál Necesitas?", cat: "Procesos" },
-                            { slug: "guia-maquinado-suizo", title: "Guía Completa del Maquinado Suizo", cat: "Procesos" },
+                            { slug: "tolerancias-maquinado-cnc", title: "Tolerancias de Maquinado CNC", cat: "Calidad" },
                         ].map((post) => (
                             <Link key={post.slug} href={`/blog/${post.slug}`} className="p-6 rounded-xl bg-white/5 border border-white/10 hover:border-accent-primary/40 transition-colors group">
                                 <span className="text-xs font-mono text-accent-primary uppercase tracking-wider mb-2 block">{post.cat}</span>

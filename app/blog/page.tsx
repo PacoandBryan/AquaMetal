@@ -4,7 +4,7 @@ import Link from "next/link";
 export const metadata: Metadata = {
     title: "Blog — Recursos de Maquinado CNC y Manufactura Industrial",
     description:
-        "Guías, artículos técnicos y recursos sobre maquinado CNC, torneado de precisión, materiales y manufactura industrial en México. Aprende de expertos con +20 años de experiencia.",
+        "Guías, artículos técnicos y recursos sobre maquinado CNC, torneado de precisión, materiales y manufactura industrial en México. Aprende de expertos con +25 años de experiencia.",
     alternates: { canonical: "https://www.aqua-metal.com/blog" },
     openGraph: {
         title: "Blog de Maquinado CNC | Aqua Metal",
@@ -36,16 +36,7 @@ const blogPosts = [
         readTime: "6 min",
         keywords: "torneado CNC, fresado CNC, diferencias maquinado",
     },
-    {
-        slug: "guia-maquinado-suizo",
-        title: "Guía Completa del Maquinado Suizo (Swiss Lathe)",
-        excerpt:
-            "El maquinado suizo permite fabricar geometrías extremadamente complejas en una sola configuración. Conoce su historia, ventajas técnicas y en qué industrias domina.",
-        date: "2026-02-21",
-        category: "Procesos",
-        readTime: "10 min",
-        keywords: "maquinado suizo, swiss lathe, torno suizo mexico",
-    },
+
     {
         slug: "tolerancias-maquinado-cnc",
         title: "Tolerancias de Maquinado CNC: Tabla de Referencia ISO",
