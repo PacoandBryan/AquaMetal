@@ -109,16 +109,6 @@ const curatedImages: WpMedia[] = [
         toLocalPath: "/images/img_8845.jpeg",
     },
     {
-        id: 10,
-        source_url: "/images/img_8795.jpeg",
-        slug: "piezas-maquinadas",
-        title: { rendered: "Piezas Maquinadas" },
-        alt_text: "Piezas maquinadas de alta precisión",
-        media_type: "image",
-        media_details: { width: 1920, height: 1080, sizes: { full: { source_url: "/images/img_8795.jpeg" } } },
-        toLocalPath: "/images/img_8795.jpeg",
-    },
-    {
         id: 11,
         source_url: "/images/img_8793.jpeg",
         slug: "control-calidad",
