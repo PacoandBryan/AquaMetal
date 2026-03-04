@@ -1,7 +1,7 @@
 "use server";
 
 const FORM_ID = "1736";
-const WORDPRESS_URL = "https://aqua-metal.com";
+const WORDPRESS_URL = "https://backend.aqua-metal.com";
 
 export async function sendContactForm(formData: {
     name: string;
