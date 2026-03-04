@@ -1,6 +1,7 @@
 "use server";
 
 const FORM_ID = "1736";
+// Trigger re-build for Vercel
 // Use the WordPress IP directly to bypass Vercel's DNS interception
 const WORDPRESS_IP = "http://192.0.78.12";
 const HOST_HEADER = "aqua-metal.com";
