@@ -17,6 +17,8 @@ export async function fetchGraphQL(query: string, variables = {}) {
       headers: {
         "Content-Type": "application/json",
         "Host": HOST_HEADER,
+        "User-Agent": "Node.js/Next.js (Aqua Metal)",
+        "Accept": "*/*",
         "Content-Length": Buffer.byteLength(body)
       },
     };

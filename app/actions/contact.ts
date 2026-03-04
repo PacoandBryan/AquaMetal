@@ -12,6 +12,9 @@ export async function sendContactForm(formData: {
     subject: string;
     message: string;
 }) {
+    console.log("--- Starting sendContactForm Server Action ---");
+    console.log("Form Data:", formData);
+
     return new Promise((resolve) => {
         try {
             // Prepare the payload
@@ -45,26 +48,37 @@ export async function sendContactForm(formData: {
                 rejectUnauthorized: false, // This is the key to bypass the SSL error
                 headers: {
                     "Host": HOST_HEADER, // Tell WordPress which site we are
+                    "User-Agent": "Node.js/Next.js Server Action (Aqua Metal)",
+                    "Accept": "*/*",
                     "Content-Type": `multipart/form-data; boundary=${boundary}`,
                     "Content-Length": Buffer.byteLength(data)
                 }
             };
 
+            console.log("Request Options:", { ...options, headers: { ...options.headers } });
+
             const req = https.request(options, (res) => {
+                console.log("WordPress Status Code:", res.statusCode);
+                console.log("WordPress Headers:", res.headers);
+
                 let chunks = "";
                 res.on("data", (chunk) => chunks += chunk);
                 res.on("end", () => {
+                    console.log("WordPress raw response:", chunks);
                     try {
                         const json = JSON.parse(chunks);
                         if (json.status === "mail_sent") {
+                            console.log("Success: Mail Sent");
                             resolve({ success: true });
                         } else {
+                            console.log("Failure: WordPress returned status", json.status);
                             resolve({
                                 success: false,
                                 error: json.message || "WordPress rechazó el mensaje."
                             });
                         }
                     } catch (e) {
+                        console.error("JSON Parse Error:", e);
                         resolve({ success: false, error: "Respuesta no válida del servidor." });
                     }
                 });
