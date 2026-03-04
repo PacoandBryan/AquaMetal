@@ -1,9 +1,9 @@
 "use server";
 
+import https from "https";
+
 const FORM_ID = "1736";
-// Trigger re-build for Vercel
-// Use the WordPress IP directly to bypass Vercel's DNS interception
-const WORDPRESS_IP = "https://192.0.78.12";
+const WORDPRESS_IP = "192.0.78.12";
 const HOST_HEADER = "aqua-metal.com";
 
 export async function sendContactForm(formData: {
@@ -12,47 +12,75 @@ export async function sendContactForm(formData: {
     subject: string;
     message: string;
 }) {
-    try {
-        const body = new FormData();
-        body.append("your-name", formData.name);
-        body.append("your-email", formData.email);
-        body.append("your-subject", formData.subject);
-        body.append("your-message", formData.message);
+    return new Promise((resolve) => {
+        try {
+            // Prepare the payload
+            const boundary = "----NextJsServerAction" + Math.random().toString(16).slice(2);
+            let data = "";
 
-        // CF7 required fields for validation
-        body.append("_wpcf7_unit_tag", `wpcf7-f${FORM_ID}-p1-o1`);
-        body.append("_wpcf7", FORM_ID);
-        body.append("_wpcf7_locale", "es_ES");
-        body.append("_wpcf7_version", "5.9.3");
-        body.append("_wpcf7_container_post", "0");
-
-        const res = await fetch(`${WORDPRESS_IP}/wp-json/contact-form-7/v1/contact-forms/${FORM_ID}/feedback`, {
-            method: "POST",
-            body: body,
-            headers: {
-                "Host": HOST_HEADER,
-            },
-        });
-
-        if (!res.ok) {
-            throw new Error(`WordPress responded with ${res.status}`);
-        }
-
-        const json = await res.json();
-
-        if (json.status === "mail_sent") {
-            return { success: true };
-        } else {
-            return {
-                success: false,
-                error: json.message || "Hubo un error al enviar el mensaje por parte de WordPress."
+            const fields = {
+                "your-name": formData.name,
+                "your-email": formData.email,
+                "your-subject": formData.subject,
+                "your-message": formData.message,
+                "_wpcf7": FORM_ID,
+                "_wpcf7_unit_tag": `wpcf7-f${FORM_ID}-p1-o1`,
+                "_wpcf7_locale": "es_ES",
+                "_wpcf7_version": "5.9.3",
+                "_wpcf7_container_post": "0"
             };
+
+            for (const [key, value] of Object.entries(fields)) {
+                data += `--${boundary}\r\n`;
+                data += `Content-Disposition: form-data; name="${key}"\r\n\r\n`;
+                data += `${value}\r\n`;
+            }
+            data += `--${boundary}--\r\n`;
+
+            const options = {
+                hostname: WORDPRESS_IP,
+                port: 443,
+                path: `/wp-json/contact-form-7/v1/contact-forms/${FORM_ID}/feedback`,
+                method: "POST",
+                rejectUnauthorized: false, // This is the key to bypass the SSL error
+                headers: {
+                    "Host": HOST_HEADER, // Tell WordPress which site we are
+                    "Content-Type": `multipart/form-data; boundary=${boundary}`,
+                    "Content-Length": Buffer.byteLength(data)
+                }
+            };
+
+            const req = https.request(options, (res) => {
+                let chunks = "";
+                res.on("data", (chunk) => chunks += chunk);
+                res.on("end", () => {
+                    try {
+                        const json = JSON.parse(chunks);
+                        if (json.status === "mail_sent") {
+                            resolve({ success: true });
+                        } else {
+                            resolve({
+                                success: false,
+                                error: json.message || "WordPress rechazó el mensaje."
+                            });
+                        }
+                    } catch (e) {
+                        resolve({ success: false, error: "Respuesta no válida del servidor." });
+                    }
+                });
+            });
+
+            req.on("error", (error) => {
+                console.error("HTTPS Request Error:", error);
+                resolve({ success: false, error: "No se pudo conectar con WordPress." });
+            });
+
+            req.write(data);
+            req.end();
+
+        } catch (error) {
+            console.error("General Action Error:", error);
+            resolve({ success: false, error: "Error interno procesando el formulario." });
         }
-    } catch (error) {
-        console.error("Error in sendContactForm server action:", error);
-        return {
-            success: false,
-            error: "No se pudo establecer conexión con el servidor de correos. Intenta de nuevo."
-        };
-    }
+    });
 }
