@@ -1,6 +1,6 @@
 import { Post } from "@/types/wordpress";
 
-const API_IP = "http://192.0.78.12/graphql";
+const API_IP = "https://192.0.78.12/graphql";
 const HOST_HEADER = "aqua-metal.com";
 
 export async function fetchGraphQL(query: string, variables = {}) {
