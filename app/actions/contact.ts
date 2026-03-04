@@ -6,16 +6,21 @@ const FORM_ID = "1736";
 const WORDPRESS_IP = "192.0.78.12";
 const HOST_HEADER = "aqua-metal.com";
 
+export interface ContactResponse {
+    success: boolean;
+    error?: string;
+}
+
 export async function sendContactForm(formData: {
     name: string;
     email: string;
     subject: string;
     message: string;
-}) {
+}): Promise<ContactResponse> {
     console.log("--- Starting sendContactForm Server Action ---");
     console.log("Form Data:", formData);
 
-    return new Promise((resolve) => {
+    return new Promise<ContactResponse>((resolve) => {
         try {
             // Prepare the payload
             const boundary = "----NextJsServerAction" + Math.random().toString(16).slice(2);
