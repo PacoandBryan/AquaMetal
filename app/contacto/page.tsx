@@ -3,6 +3,7 @@
 import { PageHeader } from "@/components/ui/PageHeader";
 import { Mail, Phone, MapPin, Send, Loader2, CheckCircle, AlertCircle } from "lucide-react";
 import { useState } from "react";
+import { sendContactForm } from "@/app/actions/contact";
 
 
 
@@ -16,10 +17,6 @@ export default function ContactPage() {
     const [status, setStatus] = useState<"idle" | "submitting" | "success" | "error">("idle");
     const [errorMessage, setErrorMessage] = useState("");
 
-    // TODO: ¡IMPORTANTE! Reemplaza '1234' con el número que ves en la URL de tu WordPress (ej. post=1234)
-    // El ID debe ser SOLO NÚMEROS. "44259ff" no funcionará.
-    const FORM_ID = "1736";
-    const WORDPRESS_URL = "https://aqua-metal.com";
 
     const handleSubmit = async (e: React.FormEvent) => {
         e.preventDefault();
@@ -27,31 +24,14 @@ export default function ContactPage() {
         setErrorMessage("");
 
         try {
-            const body = new FormData();
-            body.append("your-name", formData.name);
-            body.append("your-email", formData.email);
-            body.append("your-subject", formData.subject);
-            body.append("your-message", formData.message);
-            // CF7 required fields for validation in newer versions
-            body.append("_wpcf7_unit_tag", `wpcf7-f${FORM_ID}-p1-o1`);
-            body.append("_wpcf7", FORM_ID);
-            body.append("_wpcf7_locale", "es_ES");
-            body.append("_wpcf7_version", "5.9.3"); // Example version, generally safe to be static
-            body.append("_wpcf7_container_post", "0");
+            const result = await sendContactForm(formData);
 
-            const res = await fetch(`${WORDPRESS_URL}/wp-json/contact-form-7/v1/contact-forms/${FORM_ID}/feedback`, {
-                method: "POST",
-                body: body
-            });
-
-            const json = await res.json();
-
-            if (json.status === "mail_sent") {
+            if (result.success) {
                 setStatus("success");
                 setFormData({ name: "", email: "", subject: "", message: "" });
             } else {
                 setStatus("error");
-                setErrorMessage(json.message || "Hubo un error al enviar el mensaje.");
+                setErrorMessage(result.error || "Hubo un error al enviar el mensaje.");
             }
         } catch (error) {
             console.error(error);
