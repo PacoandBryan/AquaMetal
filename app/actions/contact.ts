@@ -1,7 +1,9 @@
 "use server";
 
 const FORM_ID = "1736";
-const WORDPRESS_URL = "https://aqua-metal.wordpress.com";
+// Use the WordPress IP directly to bypass Vercel's DNS interception
+const WORDPRESS_IP = "http://192.0.78.12";
+const HOST_HEADER = "aqua-metal.com";
 
 export async function sendContactForm(formData: {
     name: string;
@@ -23,11 +25,12 @@ export async function sendContactForm(formData: {
         body.append("_wpcf7_version", "5.9.3");
         body.append("_wpcf7_container_post", "0");
 
-        const res = await fetch(`${WORDPRESS_URL}/wp-json/contact-form-7/v1/contact-forms/${FORM_ID}/feedback`, {
+        const res = await fetch(`${WORDPRESS_IP}/wp-json/contact-form-7/v1/contact-forms/${FORM_ID}/feedback`, {
             method: "POST",
             body: body,
-            // On server-side, we can include extra headers if needed, 
-            // but CF7 usually just needs the body.
+            headers: {
+                "Host": HOST_HEADER,
+            },
         });
 
         if (!res.ok) {
