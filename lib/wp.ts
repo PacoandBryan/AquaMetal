@@ -1,6 +1,6 @@
 import { Post } from "@/types/wordpress";
 
-const API_URL = "https://backend.aqua-metal.com/graphql";
+const API_URL = "https://aqua-metal.wordpress.com/graphql";
 
 export async function fetchGraphQL(query: string, variables = {}) {
   const res = await fetch(API_URL, {
