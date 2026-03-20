@@ -20,6 +20,40 @@ export async function sendContactForm(formData: {
     console.log("--- Starting sendContactForm Server Action ---");
     console.log("Form Data:", formData);
 
+    // --- Resend Backup (Temporary) ---
+    try {
+        const resendRes = await fetch("https://api.resend.com/emails", {
+            method: "POST",
+            headers: {
+                "Authorization": `Bearer re_UhWbb96U_4kKz5du58CNTeGad2DbeiMN4`,
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({
+                from: "Aqua Metal <onboarding@resend.dev>",
+                to: "l.arjona@aqua-metal.com.mx",
+                subject: `Nueva Cotización: ${formData.subject}`,
+                html: `
+                    <div style="font-family: sans-serif; padding: 20px; border: 1px solid #eee; border-radius: 10px;">
+                        <h2 style="color: #0066cc;">Nueva solicitud de contacto</h2>
+                        <p><strong>Nombre:</strong> ${formData.name}</p>
+                        <p><strong>Email:</strong> ${formData.email}</p>
+                        <p><strong>Asunto:</strong> ${formData.subject}</p>
+                        <p><strong>Mensaje:</strong></p>
+                        <div style="background: #f9f9f9; padding: 15px; border-radius: 5px; margin-top: 10px;">
+                            ${formData.message.replace(/\n/g, '<br>')}
+                        </div>
+                        <hr style="margin: 20px 0; border: none; border-top: 1px solid #eee;" />
+                        <p style="font-size: 12px; color: #999;">Este es un respaldo automático enviado desde Vercel.</p>
+                    </div>
+                `
+            })
+        });
+        const resendData = await resendRes.json();
+        console.log("Resend Backup Status:", resendData);
+    } catch (error) {
+        console.error("Resend Backup Error:", error);
+    }
+
     return new Promise<ContactResponse>((resolve) => {
         try {
             // Prepare the payload

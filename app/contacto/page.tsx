@@ -65,8 +65,8 @@ export default function ContactPage() {
                                     </div>
                                     <div>
                                         <p className="text-gray-400 text-sm uppercase tracking-wider mb-1">Email</p>
-                                        <a href="mailto:ventas@aqua-metal.com" className="text-white text-lg hover:text-accent-primary transition-colors">
-                                            ventas@aqua-metal.com
+                                        <a href="mailto:ventas@aqua-metal.com.mx" className="text-white text-lg hover:text-accent-primary transition-colors">
+                                            ventas@aqua-metal.com.mx
                                         </a>
                                     </div>
                                 </div>
