@@ -4,6 +4,7 @@ import { PageHeader } from "@/components/ui/PageHeader";
 import { Mail, Phone, MapPin, Send, Loader2, CheckCircle, AlertCircle } from "lucide-react";
 import { useState } from "react";
 import { sendContactForm } from "@/app/actions/contact";
+import * as gtag from "@/lib/gtag";
 
 
 
@@ -29,6 +30,11 @@ export default function ContactPage() {
             if (result.success) {
                 setStatus("success");
                 setFormData({ name: "", email: "", subject: "", message: "" });
+                gtag.event({
+                    action: "generate_lead",
+                    category: "contact",
+                    label: "Contact Form",
+                });
             } else {
                 setStatus("error");
                 setErrorMessage(result.error || "Hubo un error al enviar el mensaje.");

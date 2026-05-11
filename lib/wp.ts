@@ -52,7 +52,7 @@ export async function fetchGraphQL(query: string, variables = {}) {
 }
 
 export async function getAllPosts(): Promise<Post[]> {
-  const data = await fetchGraphQL(`
+  const data = (await fetchGraphQL(`
     query AllPosts {
       posts {
         nodes {
@@ -64,12 +64,12 @@ export async function getAllPosts(): Promise<Post[]> {
         }
       }
     }
-  `) as any;
+  `)) as { posts: { nodes: Post[] } };
   return data.posts.nodes;
 }
 
 export async function getPostBySlug(slug: string): Promise<Post> {
-  const data = await fetchGraphQL(`
+  const data = (await fetchGraphQL(`
     query PostBySlug($id: ID!, $idType: PostIdType!) {
       post(id: $id, idType: $idType) {
         id
@@ -82,6 +82,6 @@ export async function getPostBySlug(slug: string): Promise<Post> {
   `, {
     id: slug,
     idType: "SLUG"
-  }) as any;
+  })) as { post: Post };
   return data.post;
 }
