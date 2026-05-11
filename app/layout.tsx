@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Inter, Outfit } from "next/font/google";
+import Script from "next/script";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import WhatsAppBubble from "@/components/WhatsAppBubble";
@@ -148,6 +149,19 @@ export default function RootLayout({
       <body
         className={`${inter.variable} ${outfit.variable} antialiased min-h-screen flex flex-col`}
       >
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=AW-18142188601"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'AW-18142188601');
+          `}
+        </Script>
         <ScrollProgressBar />
         <CursorSpotlight />
         <Navbar />

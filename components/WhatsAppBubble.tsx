@@ -2,6 +2,7 @@
 
 import { useEffect, useRef } from "react";
 import Link from "next/link";
+import * as gtag from "@/lib/gtag";
 
 const WHATSAPP_NUMBER = "5613440508";
 const WHATSAPP_URL = `https://wa.me/${WHATSAPP_NUMBER}`;
@@ -31,6 +32,13 @@ export default function WhatsAppBubble() {
             rel="noopener noreferrer"
             aria-label="Chat on WhatsApp"
             className="whatsapp-bubble fixed bottom-6 right-6 z-[9999] group"
+            onClick={() => {
+                gtag.event({
+                    action: "contact_whatsapp",
+                    category: "contact",
+                    label: "WhatsApp Bubble",
+                });
+            }}
         >
             {/* Outer pulse ring */}
             <span className="absolute inset-0 rounded-full bg-[#25D366] opacity-30 whatsapp-pulse pointer-events-none" />

@@ -3,6 +3,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { ArrowUpRight } from "lucide-react";
+import * as gtag from "@/lib/gtag";
 
 export default function Footer() {
     return (
@@ -24,7 +25,16 @@ export default function Footer() {
                     </div>
                     <div>
                         <Link href="/contacto">
-                            <button className="whitespace-nowrap bg-white text-black px-8 py-4 rounded-full text-base font-bold hover:bg-gray-200 transition-colors flex items-center gap-2">
+                            <button
+                                onClick={() => {
+                                    gtag.event({
+                                        action: "click_cta",
+                                        category: "engagement",
+                                        label: "Footer Iniciar Proyecto",
+                                    });
+                                }}
+                                className="whitespace-nowrap bg-white text-black px-8 py-4 rounded-full text-base font-bold hover:bg-gray-200 transition-colors flex items-center gap-2"
+                            >
                                 Iniciar Proyecto
                                 <ArrowUpRight size={20} />
                             </button>
