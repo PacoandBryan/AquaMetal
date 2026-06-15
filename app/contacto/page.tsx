@@ -82,8 +82,8 @@ export default function ContactPage() {
                                     </div>
                                     <div>
                                         <p className="text-gray-400 text-sm uppercase tracking-wider mb-1">Teléfono</p>
-                                        <a href="https://wa.me/5613440508" className="text-white text-lg hover:text-accent-primary transition-colors">
-                                            (+52) 56 1344 0508
+                                        <a href="https://wa.me/525550846281" className="text-white text-lg hover:text-accent-primary transition-colors">
+                                            (+52) 55 5084 6281
                                         </a>
                                     </div>
                                 </div>

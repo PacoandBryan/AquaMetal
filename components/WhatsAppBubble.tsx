@@ -4,7 +4,7 @@ import { useEffect, useRef } from "react";
 import Link from "next/link";
 import * as gtag from "@/lib/gtag";
 
-const WHATSAPP_NUMBER = "5613440508";
+const WHATSAPP_NUMBER = "525550846281";
 const WHATSAPP_URL = `https://wa.me/${WHATSAPP_NUMBER}`;
 
 export default function WhatsAppBubble() {

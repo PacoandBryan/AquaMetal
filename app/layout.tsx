@@ -84,7 +84,7 @@ const organizationSchema = {
         "@type": "ContactPoint",
         contactType: "customer service",
         availableLanguage: "Spanish",
-        telephone: "+52-55-8698-1654",
+        telephone: "+52-55-5084-6281",
         contactOption: "TollFree",
       },
       hasOfferCatalog: {
