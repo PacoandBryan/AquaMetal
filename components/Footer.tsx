@@ -3,9 +3,13 @@
 import Link from "next/link";
 import Image from "next/image";
 import { ArrowUpRight } from "lucide-react";
+import { usePathname } from "next/navigation";
 import * as gtag from "@/lib/gtag";
 
 export default function Footer() {
+    const pathname = usePathname();
+    const isContactPage = pathname === "/contacto";
+
     return (
         <footer className="relative bg-[#000814] border-t border-white/5 pt-24 pb-12 overflow-hidden">
             {/* Background Glow */}
@@ -14,33 +18,39 @@ export default function Footer() {
             <div className="container mx-auto px-6 max-w-7xl relative z-10">
 
                 {/* CTA Section */}
-                <div className="glass-panel p-8 md:p-12 rounded-3xl mb-24 flex flex-col md:flex-row justify-between items-center gap-8 border border-white/5 bg-white/[0.02]">
-                    <div className="max-w-xl">
-                        <h3 className="text-3xl md:text-4xl font-display font-bold text-white mb-4">
-                            ¿Listo para elevar tu producción?
-                        </h3>
-                        <p className="text-gray-400 text-lg leading-relaxed">
-                            Hablemos de cómo nuestra manufactura de precisión puede escalar tus operaciones.
-                        </p>
+                {!isContactPage && (
+                    <div className="glass-panel p-8 md:p-12 rounded-3xl mb-24 flex flex-col md:flex-row justify-between items-center gap-8 border border-white/5 bg-white/[0.02]">
+                        <div className="max-w-xl">
+                            <h3 className="text-3xl md:text-4xl font-display font-bold text-white mb-4">
+                                ¿Listo para elevar tu producción?
+                            </h3>
+                            <p className="text-gray-400 text-lg leading-relaxed">
+                                Hablemos de cómo nuestra manufactura de precisión puede escalar tus operaciones.
+                            </p>
+                        </div>
+                        <div>
+                            <Link href="/contacto?book=true">
+                                <button
+                                    onClick={(e) => {
+                                        gtag.event({
+                                            action: "click_cta",
+                                            category: "engagement",
+                                            label: "Footer Iniciar Proyecto",
+                                        });
+                                        if (pathname === "/contacto") {
+                                            e.preventDefault();
+                                            window.dispatchEvent(new CustomEvent("open-booking-modal"));
+                                        }
+                                    }}
+                                    className="whitespace-nowrap bg-white text-black px-8 py-4 rounded-full text-base font-bold hover:bg-gray-200 transition-colors flex items-center gap-2"
+                                >
+                                    Iniciar Proyecto
+                                    <ArrowUpRight size={20} />
+                                </button>
+                            </Link>
+                        </div>
                     </div>
-                    <div>
-                        <Link href="/contacto">
-                            <button
-                                onClick={() => {
-                                    gtag.event({
-                                        action: "click_cta",
-                                        category: "engagement",
-                                        label: "Footer Iniciar Proyecto",
-                                    });
-                                }}
-                                className="whitespace-nowrap bg-white text-black px-8 py-4 rounded-full text-base font-bold hover:bg-gray-200 transition-colors flex items-center gap-2"
-                            >
-                                Iniciar Proyecto
-                                <ArrowUpRight size={20} />
-                            </button>
-                        </Link>
-                    </div>
-                </div>
+                )}
 
                 {/* Main Footer Content */}
                 <div className="grid grid-cols-1 md:grid-cols-12 gap-12 border-b border-white/5 pb-16">
